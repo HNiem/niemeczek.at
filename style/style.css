@@ -1,0 +1,368 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	box-sizing: border-box;
+}
+html, body {
+	height: 100%;
+}
+body {
+	display: table;
+	width: 100%;
+}
+.tabellen_zelle {
+	display: table-row;
+}
+::selection { /*Farbe bei Markierung*/
+	background-color: rgba(62,122,5,0.9);
+}
+/* allgemeine Formatierung*/
+/* text */
+p {
+	color: rgb(228,228,226);
+	font-size: 17px;
+}
+a {
+	color: rgb(95,168,7); /*rgb(58,168,7)*/ 
+	font-weight: bold;
+	text-decoration: none;
+
+}
+a:visited {
+	color: rgb(54,107,4);
+
+}
+
+a:hover {
+
+	font-weight: bold;
+	text-decoration: underline;
+}
+a:active {
+	color: rgb(116,229,9); 
+	border: none;
+	
+}
+
+
+/* Überschriften */
+h1 {
+	color: rgb(228,228,226);
+	font-size: 26px;
+}
+h2 {
+	color: rgb(228,228,226);
+	font-size: 23px;
+}
+h3 {
+	color: rgb(228,228,226);
+	font-size: 20px;
+}
+h4 {
+	color: rgb(228,228,226);
+	font-size: 18px;
+}
+h5 {
+	color: rgb(228,228,226);
+	font-size: 16px;
+}
+h6 {
+	color: rgb(228,228,226);
+	font-size: 13px;
+}
+.blue {
+	color: rgb(33,93,156); 
+}
+.lightblue {
+	color: rgb(114,159,207);
+}
+.green {
+	color: rgb(78,154,6);
+}
+.yellow {
+	color: rgb(185,151,3);
+}
+.red {
+	color: rgb(193,2,2)
+}
+.white {
+	color: rgb(255,255,253); 
+}
+.gray {
+		color: rgb(105,105,104); 
+}
+.underline {
+	text-decoration: underline;
+
+}
+
+
+/* ###################################################################################   headerbereich  ########### */
+header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
+	background-color: rgb(48,53,53);
+	width: 100%;
+	float: left;
+	box-shadow: 1px 0 20px rgb(22,23,23); 
+}
+#bereichlogo { 
+	color: rgb(230,232,232);
+	font-size: 23px;
+	display: block;
+	padding: 14px 12px 7px 75px;
+	text-decoration: none;
+	float: left;
+	width: auto;
+}
+@media only screen and (max-width:900px) {
+	#bereichlogo {
+		padding: 14px 12px 7px 40px;
+	}
+}
+#steuerung {
+	float: right;
+}
+#steuerung li {
+	list-style: none;
+	float: left;
+}
+#steuerung a{
+	display: block;
+	height: 100%;
+	width: 100%;
+	width: 100%;
+	padding: 1em 0.8em 0.8em 0.8em;
+	text-decoration: none; 	/* keine Unterstreichung*/
+	color: rgb(175,178,178);       		/* Schriftfarbe weiß*/	
+}
+@media only screen and (max-width:710px) {
+	#steuerung a {
+		padding-left: 50px;
+	}
+}
+#steuerung a:hover {
+	color: rgb(247,247,245);
+	background: rgb(53,59,59);
+}
+.menue-button {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ###################################################################################   Bild in Desktopansicht  ########### */
+#headerbild {
+	background: url(/images/system/headerbild-google-optimized.jpg) no-repeat;
+	background-position: center center;
+	-webkit-background-position: center center;
+	-moz-background-position: center center;
+	-o-background-position: center center;
+	height: 100%;	
+	width: auto;
+}
+#headerbildhintergrund {
+	width: 100%;
+	background-color: rgb(57,63,63);
+	height: 325px;
+}
+@media only screen and (max-width:510px) { /*Ausblenden des Headerbilds wenn zu schmal*/
+	#headerbild {
+		display: none;	
+		background: none;
+	}
+	#headerbildhintergrund {
+		display: none;
+	}
+}
+/* ###################################################################################       Inhaltsbereich      ########### */
+
+.maximale_hoehe { /* Höhenangabe Headerbild und Inhaltsbereich */
+	background-color: rgb(41,41,41);
+	height: 100%;
+
+}
+
+#content_area {
+	max-width: 1135px;
+	margin: 0 auto;
+	margin-top: 3em;
+}
+#linke_spalte {
+	width: 23%;
+	margin-right: 2%;
+	float: left;
+	margin-left: 3%;
+}
+#haupt_spalte {
+	width: 72%;
+	float: left;
+}
+#haupt_spalte_single {
+	width: 90%;
+	margin: 0 auto;
+}
+@media only screen and (max-width:650px){
+#content_area {
+	width: 100%;
+
+}
+#linke_spalte {
+	width: 96%;
+	margin: 0 2% 2% 2%;
+	
+}
+#haupt_spalte {
+	width: 96%;
+	margin: 0 2% 0 2%;
+}
+}
+.databox {
+	padding: 15px;
+	margin-bottom: 3em;
+}
+
+
+
+/* Sticky Footer ########################################################################################### */
+#steuerung_footer {
+	float: right;
+}
+#steuerung_footer li {
+	list-style: none;
+	float: left;
+}
+#steuerung_footer a{
+	display: block;
+	height: 100%;
+	width: 100%;
+	padding: 0.8em;
+	text-decoration: none; 	/* keine Unterstreichung*/
+	color: white;       		/* Schriftfarbe weiß*/
+	border-top: 2px solid transparent;
+}
+#steuerung_footer a:hover {
+	color: rgb(238,238,236);
+	background: rgb(52,57,57);
+	border-top: 2px rgb(33,93,156) solid;
+}
+
+#footer_height{
+	height: auto;
+	background-color: rgb(57,63,63);
+	padding-left: 15px;
+}
+
+
+
+/* CSS um MENU-Button und mobile Steuerung erweitern ####################################################### */
+@media only screen and (max-width:710px) {
+	.menue-button {
+		background-color: none;	
+		display: block;
+		position: absolute;
+		right: 7px;
+		top: 7px;
+		padding: 5px;
+		cursor: pointer;
+		text-decoration: none;
+		border: 2px rgba(225,223,223,0.8) solid;
+		border-radius: 4px;
+	}
+	.menue-button-line {
+		display: block;
+		background-color: rgba(225,223,223,0.8);
+		width: 20px;
+		height: 3px;
+		margin: 3px 2px 3px 2px;
+		border-radius: 2px;
+	}
+	#bereichlogo{  
+		width: 100%;
+	}
+	#steuerung li {
+		width: 100%;
+		border-bottom: 1px solid rgb(71,74,73);
+	}
+	#steuerung {
+		float: left;
+		width: 100%;
+		display: none;
+	}
+	.menue-button:hover {
+		background: rgba(255,253,253,0.4);
+	}
+	#nav-menue:target #steuerung {
+		display: block;
+	}
+	#nav-menue:target .menue-button-beschr-open {
+		display: none;
+	}
+	#nav-menue:target .linie_nach_unten_wenn_geoeffnet{ /* WARUM ERSCHEINT IN DER MOBILVERSION MIT WENIGER ALS 900PX BREITE AUCH EIN border-top, OBWOHL HIER NICHT NOTIERT UND SOGAR ABGESCHALTEN????????????????????????*/
+		border-bottom: solid 1px rgb(71,74,73);
+		border-top: none;
+	}
+}
+
+
+
+.hidden {
+	position: absolute;
+/*display: none;*/
+width: auto;
+min-width: 30px;
+
+background-color: red;
+}
+li ul li {
+	display: block;
+	float: none;
+}
+#testy1 {
+	color: yellow;
+	background-color: yellow;
+	float: none;
+	width: 100%;
+}
+#testy2 {
+	color: yellow;
+	background-color: yellow;
+	float: none;
+		width: 100%;
+}
+#testy3 {
+	color: yellow;
+	background-color: yellow;
+	float: none;
+	width: 100%;
+}
+
+
+

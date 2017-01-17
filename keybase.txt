@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/hnieme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://niemeczek.at
+  * I am hnieme (https://keybase.io/hnieme) on keybase.
+  * I have a public key with fingerprint 9258 49E8 4B61 5C76 235A  DE49 FD27 9AD7 68A0 EF1D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010192c40381d454138da91f7a7557ad7d414ce641758a87c669a1556dc70c695b970a",
+            "fingerprint": "925849e84b615c76235ade49fd279ad768a0ef1d",
+            "host": "keybase.io",
+            "key_id": "fd279ad768a0ef1d",
+            "kid": "010192c40381d454138da91f7a7557ad7d414ce641758a87c669a1556dc70c695b970a",
+            "uid": "bd28e12e0e784496afb6039995f96919",
+            "username": "hnieme"
+        },
+        "service": {
+            "hostname": "niemeczek.at",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483539627,
+    "expire_in": 157680000,
+    "prev": "4b0ba00b4d25cde8b9d820db4b163c64844815331c44439f32d52d7618584d4f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUmtMHFUUXraUpFVeSiTYIum4SgqUzuzcea2kUINQUCI1gLTarDNz78JA2V12
+B5BXi5ZEWpaWR+kDCSA0YAUjRhsgtVgiahCKrYFi2vKUFtC+ElOECsE7pP7zp/fP
+vfec7/vuOd89lZ4bdHq3RsVL9rgb73IbXJB0qVnuXYWEZIP5hKmQyETrGzoIkVM1
+ZyqQMBEkRVKCUQYkzVMQMICieSgKlIUTOYbhRMhBQAEZsYDiGF7kOZllBZFiGBbK
+HCmzAiMJHCkSYYRFsaYhh92hWFUsKxgZHgiIBxJLMTLHGmlGhAgIFmjkBKzK8iKJ
+LBTExHSbU2Pg4iTRicIVG47hi3m9vP/A/89156zLSdDII8qISMTxAAisaJFYkhYE
+gbEIrEAJGtCJHFYxC2F0ulVB+FAcRuBYriIjzVatjyf59bRcgDLDRRUz7Q6bapNt
+BzWmqtqdJo2p5ts1aB6SzE9EzJJihdhFzMhFDqdisxImCiNlVdFUKcDTDC2wRi6M
+QO/bFQcyKxqCweaQeGnvoFwsCSRSEklSAinQyMgQ8ZIAeSMJJSBRLC2zAHfIUwxN
+UzIAgBYstBEyRuwxxeNPg8BCaH1lW22ECeA6xTSs6VTSrKKa48BNbz6q3+quc9Pr
+PDbqtfnSbd7k8+/QBdZ5r5k/+qZ8tHM5d6EsftXrhCH4QuH50d+8Q464orbk7Zaq
+Q5KroieL/H/K7TIVbfOoHwuevvVaZcJQLSC/uEHYPBcH2xo/DQAPFr/yr3zqRZ8T
+X5vaI70X0r3ixoL1KScferZenb2ub7+zyXds+MhfcSvPFe+P3jq6p+LDloaLoaUD
+U5lEh/3n031BhtsFN/13NpQ1paBUe6T/FDMeXlST77PtvVdKt29/u+VQWsC46tqb
+4Aq/FHNlR4QyFHv588iY/MX4HcfnAv3Lqive8bpV9XHI6kDV0PTgxNqzEYGXXORS
+TFRa/7Ets/tXS8Hu7rXp+49mGGHyGr10+vBK0C+P7917zM5b7nOHDtRf8Dl1t2cD
+3xN7PetasPeNb7MbRj7J39WVOhzdUir3/fqdIbGz5tjJEoMhKjnxXMlyds2Z84nJ
+B+7UmlrDfDvMIzt93ZZHewb+cD7d3Nz4QJgcGn8UOBOUMfxj28BLr/79bkV74ss5
+S0MXS1JCW6deSLE2s9lHU98cKR9dOQzJjU37XG/MVUdXfOCcQAUNb7WJ81/WNcXp
+Iqs6r/xpTzIkLDadop/XT6X7Ubd11Bzb/QxXHyknHF+Fv3v5TsRnRO0LV/1qy0P7
+SmeiLydNnc2ug8VZP6Q+bI3t/d7vs6vT6bvmbvZXrupmlfmADDaid7DbPXExL6Q3
+55za0bn39bCk/n8A
+=crcd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hnieme
+
+==================================================================
+

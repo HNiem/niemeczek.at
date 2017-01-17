@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /official/
+Disallow: /kontakt.php
