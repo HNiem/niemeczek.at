@@ -226,6 +226,8 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	float: left;
 	width: auto;
 }
+
+
 @media only screen and (max-width:900px) {
 	#bereichlogo {
 		padding: 14px 12px 7px 40px;
@@ -247,7 +249,7 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	text-decoration: none; 	/* keine Unterstreichung*/
 	color: rgb(175,178,178);       		/* Schriftfarbe weiß*/	
 }
-@media only screen and (max-width:710px) {
+@media only screen and (max-width:732px) {
 	#steuerung a {
 		padding-left: 50px;
 	}
@@ -266,7 +268,32 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 
 
 
+/*TEST DROPDOWN CSS*/
 
+#dropdown-parent:hover #dropdown-ul {
+	display: block;
+}
+
+#dropdown-ul {
+	position: absolute;
+	display: none;
+	background-color: rgba(14,15,15,0.7);
+
+
+}
+#dropdown-ul li{
+	border-bottom: 1px solid rgba(99, 110, 110, 0.7);
+	width: 100%;
+
+}
+#dropdown-ul li a:hover {
+	background-color: rgba(14,15,15,0.7);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
 
 
 
@@ -423,7 +450,7 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 
 
 /* CSS um MENU-Button und mobile Steuerung erweitern ####################################################### */
-@media only screen and (max-width:710px) {
+@media only screen and (max-width:732px) {
 	.menue-button {
 		background-color: none;	
 		display: block;
@@ -469,6 +496,29 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 		border-bottom: solid 1px rgb(71,74,73);
 		border-top: none;
 	}
+/*T Mobile DROPDOWN CSS*/
+#dropdown-ul {
+	position: relative;
+	display: block;
+
+
+}
+#dropdown-ul li{
+	border-bottom: 1px none rgba(99, 110, 110, 0.7);
+	border-top: 1px solid rgba(99, 110, 110, 0.7);
+	width: 100%;
+	background-color: rgb(75, 78, 78);
+	padding-left: 9px;
+
+}
+#dropdown-ul li a:hover {
+	background-color: rgb(80, 82, 82);
+}	
+	
+	
+	
+	
+	
 }
 
 
@@ -503,6 +553,16 @@ li ul li {
 	float: none;
 	width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -3,7 +3,17 @@
 				<nav id="steuerung">
 					<ul>
 						<li><a href="/about-me.php">About Me</a></li>
+						<li id="dropdown-parent">
+							<a href="/blog/">Blog</a>
+							<ul id="dropdown-ul">
+								<li id="dropdown-li"><a  id="dropdown-a" href="/blog/privacy/">Privacy</a></li>
+							   <li id="dropdown-li"><a id="dropdown-a" href="/blog/privacy/">Bouquets and Floral Arrangements</a></li>
+							</ul>
+						
+						
+						</li>
 						<li>
+						
 							<a href="/photography/">Photography</a>
 					<!--		<ul class="hidden">
 								<li id="testy1"><a href="/fotografie/timelapse.php" >Timelapse</a></li>
@@ -13,7 +23,8 @@
 						
 						</li>
 						<li><a href="/projects/">Projects</a></li>
-						<li><a href="/blog/">Blog</a></li>
+
+						
 						<li><a href="/contact.php">Contact</a></li>				
 					</ul>
 				</nav>
