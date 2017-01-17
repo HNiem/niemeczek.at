@@ -86,6 +86,7 @@
 		<?php 
 			include '../template/footer/footer.php';
 			include '../template/fotografie/fotografie-footer.php';
+													  
 			
 		?>	
 		
