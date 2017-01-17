@@ -1,1 +1,0 @@
-		<script src="/js/lightbox-plus-jquery.min.js"></script>

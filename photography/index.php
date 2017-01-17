@@ -48,13 +48,8 @@
  							</a>
 							<a href="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
    								<img class="img-full" src="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub-small.png" alt="alternative Erklärung">
- 							</a>						</div>
-							<a href="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
-   								<img class="img-full" src="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub-small.png" alt="alternative Erklärung">
- 							</a>						</div>
-							<a href="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
-   								<img class="img-full" src="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub-small.png" alt="alternative Erklärung">
- 							</a>						</div>
+ 							</a>						
+ 						</div>
 					</div>					
 	
 				</div>
@@ -62,88 +57,8 @@
 		</section>
 		<?php 
 			include '../template/footer/footer.php';
-			include '../template/fotografie/fotografie-footer.php';
+
 		?>	
 	</body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-<p class="test">
-			Lorem ipsum dolor sit amet, consecteteur adipiscing elit fermentum cras taciti eni, libero, 
-			ante pede cum. Nulla phasellus hac. Vel curabitur pharetra, semper parturient ipsum. Integer
-			nunc taciti morbi eu turpis mauris, proin euismod cursus. Vivamus ac, cursus leo ut. Nulla 
-			quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, 
-			eu montes integer at, pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora 
-			tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci elit habitasse varius, mi 
-			praesent integer. Convallis. Proin enim ac magna suspendisse habitant, tristique diam orci non cum.
-		</p>
-	-->
