@@ -7,7 +7,7 @@
 							<a href="/blog/">Blog</a>
 							<ul id="dropdown-ul">
 								<li id="dropdown-li"><a  id="dropdown-a" href="/blog/privacy/">Privacy</a></li>
-							   <li id="dropdown-li"><a id="dropdown-a" href="/blog/privacy/">Bouquets and Floral Arrangements</a></li>
+							   <li id="dropdown-li"><a id="dropdown-a" href="/blog/horticulture/blumenstraeusse.php">Bouquets and Floral Arrangements</a></li>
 							</ul>
 						
 						
