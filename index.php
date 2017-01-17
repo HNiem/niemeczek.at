@@ -25,10 +25,7 @@
 						<div class="databox newsbox">
 								<p>SORRY! UNDER CONSTRUCTION!
 								</p>
-
-									<?php 
-										include 'template/donate/donate-topdistance.php';
-									?>						</div>
+					</div>
 						
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	

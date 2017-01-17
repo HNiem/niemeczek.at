@@ -50,7 +50,7 @@
 	
 		</section>
 		<?php 
-			include '../../../template/footer/footer.php';
+			include '../../template/footer/footer.php';
 		?>	
 		<script src="/js/lightbox-plus-jquery.min.js"></script>
 	</body>

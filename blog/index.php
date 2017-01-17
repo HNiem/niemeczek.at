@@ -23,13 +23,9 @@
 				<div id="content_area">
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
-						<!--	<?php 
-								include '../template/fotografie/fotografie.php';
-							?>	 -->
+
 							<p>SORRY! UNDER CONSTRUCTION!</p>
-									<?php 
-										include '../template/donate/donate-topdistance.php';
-									?>
+
 						</div>
 						
 					</div>	
