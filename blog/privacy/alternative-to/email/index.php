@@ -57,7 +57,7 @@
 								<br /><br />
 							</p>
 							
-							<h3>Posteo.de</h3>
+							<h3 id="POSTEO">Posteo.de</h3>
 							<p>
 								<a target="_blank" href="https://posteo.de"> Posteo</a> bietet für einen Euro monatlich eine E-Mail Adresse (+zwei Alias-Adressen) mit 2GB Postfachgröße (erweiterbar), 
 								Posteingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbares, verschlüsselbares Adressbuch, drei synchronisierbare, 
@@ -79,11 +79,11 @@
 							<h3 id="MAILBOX-ORG">Mailbox.org</h3>
 							<p>
 								Auch <a target="_blank" href="https://mailbox.org/">Mailbox.org</a> bietet für einen Euro monatlich ein E-Mail Postfach mit 2GB Speicherplatz (erweiterbar) und 
-								drei Alias-Adressen, Posteingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbares Adressbuch, synchronisierbaren Kalender, synchronisierbaren 
-								Aufgabenplaner, über den Browser zugreifbare Office-Programme mit 100 MB Dateispeicher. Die Sicherheitsfeatures sind 
+								drei Alias-Adressen, Posteingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbarem Adressbuch, synchronisierbarem Kalender, synchronisierbarem 
+								Aufgabenplaner und über den Browser zugreifbare Office-Programme mit 100 MB Dateispeicher. Die gesamten Sicherheitsfeatures sind 
 								<a target="_blank" href="https://mailbox.org/sicherheit-privacy-bei-mailbox-org/">hier</a> einsehbar.
 								<br /><br />
-								Die Server werden mit 100% Ökostrom verschiedener Anbieter betrieben, die Büros mit Ökostrom des Anbieters Lichtblick. Die Bezahlung verschiedener Pakete
+								Die Server und Büros werden mit 100% Ökostrom verschiedener Anbieter betrieben. Die Bezahlung verschiedener Pakete
 								ist per per Überweisung, Paypal, Bitcoin, Bargeldeinzahlung auf Girokonto oder Bargeld per Post möglich, die vollkommen anonyme Nutzung des Services ebenfalls 
 								möglich. Das Anlegen eines Testaccounts für 30 Tage ist ebenfalls möglich (mit gewissen Einschränkungen).
 								<br /><br />
@@ -95,7 +95,7 @@
 								Es ist möglich, seine PGP Schlüsseln hochzuladen, um damit online verschlüsseln zu können. Das sehe ich aber sehr kritisch, 
 								private PGP-Keys haben anderswo als am eigenen Rechner nichts zu suchen. Besser ist es das 
 								<a href="https://www.mailvelope.com/de" target="_blank">Mailvelope-Plugin</a>, 
-								<a href="/blog/privacy/GnuPG/thunderbird-enigmail.php"> Enigmail in Thunderbird oder auf Android <a href="/blog/privacy/GnuPG/android.php">OpenKeyChain 
+								<a href="/blog/privacy/GnuPG/thunderbird-enigmail.php"> Enigmail in Thunderbird</a> oder auf Android <a href="/blog/privacy/GnuPG/android.php">OpenKeyChain 
 								mit K-9-Mail</a> zu nutzen.
 								<br /><br />
 								<br /><br />
