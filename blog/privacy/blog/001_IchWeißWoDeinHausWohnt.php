@@ -55,7 +55,7 @@
 									<li>Von welcher Webseite Du auf diese gelangt bist (Referer).</li>
 								</ul>
 								<p>	
-									Diese Webseite zeigt die ausgelesenen Informationen an: <a href="http://ipaddress.com/">ipadress.com</a>
+									Diese Webseite zeigt die ausgelesenen Informationen an: <a target="_blank" href="http://ipaddress.com/">ipadress.com</a>
 									<br /><br />
 									Zusätzlich gibt es Analyse-Programme, die in die Webseite eingebunden werden können, und die viele weitere Informationen erheben können:
 								</p>
@@ -86,7 +86,7 @@
 								
 								
 									<br /><br />
-									<a href="https://www.youtube.com/watch?v=QKe-aO44R7k">The Internet is on fire | Mikko Hypponen | TEDxBrussels</a>
+									<a target="_blank" href="https://www.youtube.com/watch?v=QKe-aO44R7k">The Internet is on fire | Mikko Hypponen | TEDxBrussels</a>
 								</p>
 
 							

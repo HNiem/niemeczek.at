@@ -57,7 +57,7 @@
 							<p>
 								Wenn Sie mit der Speicherung und Nutzung Ihrer Daten nicht einverstanden sind, können Sie die Speicherung und Nutzung hier deaktivieren. In diesem Fall wird in Ihrem 
 								Browser ein Opt-Out-Cookie hinterlegt der verhindert, dass Piwik Nutzungsdaten speichert. Wenn Sie Ihre Cookies löschen hat dies zur Folge, dass auch das Piwik 
-								Opt-Out-Cookie gelöscht wird. Das Opt-Out muss bei einem erneuten Beuch unserer Seite wieder aktiviert werden.
+								Opt-Out-Cookie gelöscht wird. Das Opt-Out muss bei einem erneuten Besuch unserer Seite wieder aktiviert werden.
 							</p>
 							<p>
 								<iframe style="border: 0; height: 200px; width: 600px; color: rgb(228,228,226); font-size: 17px; font-family: Arial, sans-serif;" src="https://statistics.niemeczek.at/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>

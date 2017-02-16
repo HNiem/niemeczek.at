@@ -1,5 +1,5 @@
 							<ul>
-								<li><a href="/blog/horticulture/">Horticulture</a></li>
+							<!--	<li><a href="/blog/horticulture/">Horticulture</a></li> -->
 								<li><a href="/blog/horticulture/blumenstraeusse.php">Floral Arrangements</a></li>
 							<!--	<li><a href="/photography/starlapse.php">Starlapse</a></li>
 								<li><a href="/photography/malenmitlicht.php">Malen mit Licht</a></li>

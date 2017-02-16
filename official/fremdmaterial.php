@@ -33,8 +33,8 @@
 							</p> 
 							<h5>Lightbox</h5>
 							<p> 
-								The Lightbox used at this site is from <a href="http://lokeshdhakar.com/projects/lightbox2/">http://lokeshdhakar.com/projects/lightbox2/</a>. 
-								<br />It is licensed under the <a href="https://github.com/lokesh/lightbox2/blob/master/LICENSE">MIT LICENSE.</a>
+								The Lightbox used at this site is from <a target="_blank" href="http://lokeshdhakar.com/projects/lightbox2/">http://lokeshdhakar.com/projects/lightbox2/</a>. 
+								<br />It is licensed under the <a target="_blank" href="https://github.com/lokesh/lightbox2/blob/master/LICENSE">MIT LICENSE.</a>
 								
 							</p>
 							<p>

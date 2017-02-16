@@ -32,20 +32,13 @@
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 
-							<h1>SORRY!</h1>
-							<h2>PAGE UNDER CONSTRUCTION</h2>
-						
+							<h1>GnuPG</h1>
+							<h4>(stands for <i><b>G</b>nu <b>P</b>rivacy <b>G</b>uard</i> also GPG, or PGP, which stands for <i><b>P</b>retty <b>G</b>ood <b>P</b>rivacy)</i></h4>
 							<p>
-								This page is currently under construction. 
-								<br />
-								Don't worry, you can find information on other pages of that website!
 								<br /><br />
-								Two blog entries can be found here:
+								<a href="/blog/privacy/GnuPG/">What is PGP (an explanation, German)</a>
 								<br /><br />
-								<a href="/blog/horticulture/blumenstraeusse.php">Bouquets and floral arrangements</a>
-								<br />
-								<a href="/blog/privacy/GnuPG/">Information around PGP</a>
-								
+								<a href="policy.php">PGP Key Policy</a>
 							</p>
 
 
@@ -65,4 +58,5 @@
 		?>	
 	</body>
 </html>
+
 

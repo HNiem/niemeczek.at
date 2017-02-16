@@ -3,11 +3,11 @@
 				<nav id="steuerung">
 					<ul>
 						<li><a href="/about-me.php">About Me</a></li>
-						<li id="dropdown-parent">
+						<li class="dropdown-parent">
 							<a href="/blog/">Blog</a>
-							<ul id="dropdown-ul">
-								<li id="dropdown-li"><a  id="dropdown-a" href="/blog/privacy/">Privacy</a></li>
-							   <li id="dropdown-li"><a id="dropdown-a" href="/blog/horticulture/blumenstraeusse.php">Bouquets and Floral Arrangements</a></li>
+							<ul class="dropdown-ul">
+								<li class="dropdown-li"><a  class="dropdown-a" href="/blog/privacy/">Privacy</a></li>
+							   <li class="dropdown-li"><a class="dropdown-a" href="/blog/horticulture/blumenstraeusse.php">Bouquets and Floral Arrangements</a></li>
 							</ul>
 						
 						
@@ -15,11 +15,7 @@
 						<li>
 						
 							<a href="/photography/">Photography</a>
-					<!--		<ul class="hidden">
-								<li id="testy1"><a href="/fotografie/timelapse.php" >Timelapse</a></li>
-								<li id="testy2"><a href="/fotografie/starlapse.php" >Starlapse</a></li>
-								<li id="testy3"><a href="/fotografie/diverses.php"  >Diverses</a></li>
-							</ul> -->
+
 						
 						</li>
 						<li><a href="/projects/">Projects</a></li>
@@ -28,12 +24,12 @@
 						<li><a href="/contact.php">Contact</a></li>				
 					</ul>
 				</nav>
-				<a class="menue-button menue-button-beschr-close" href="#">
+				<a class="menue-button menue-button-beschr-close menue-button-header" href="#">
 					<span class="menue-button-line"></span>
 					<span class="menue-button-line"></span>
 					<span class="menue-button-line"></span>
 				</a>
-				<a class="menue-button menue-button-beschr-open"  href="#nav-menue">
+				<a class="menue-button menue-button-beschr-open menue-button-header"  href="#nav-menue">
 					<span class="menue-button-line"></span>
 					<span class="menue-button-line"></span>
 					<span class="menue-button-line"></span>

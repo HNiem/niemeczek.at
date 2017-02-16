@@ -33,8 +33,14 @@
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>Title</h1>
-							<p><br /><br /></p>
+						
+							<h1>Wie man sicher im Internet surfen kann und die Gefahren von JavaScript</h1>
+								<p>
+								Still missing content. I will add that soon :D
+								</p>
+
+							
+						
 
 
 

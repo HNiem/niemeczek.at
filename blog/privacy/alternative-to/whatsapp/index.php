@@ -45,7 +45,7 @@
 								Facebook geteilt. Wenn ich Whatsapp auf einem neuen Gerät installiere, dürfte mir auch die opt-out Option in den Einstellungen nicht mehr zur Verfügung stehen.
 							</p>
 								<blockquote cite="https://www.whatsapp.com/legal/?l=de">
-								<cite><a href="https://www.whatsapp.com/legal/?l=de" rel="nofollow">https://www.whatsapp.com/legal/?l=de</a></cite>
+								<cite><a target="_blank" href="https://www.whatsapp.com/legal/?l=de" rel="nofollow">https://www.whatsapp.com/legal/?l=de</a></cite>
 								<br />
 									Wenn du ein bestehender Nutzer bist, kannst du wählen, deine WhatsApp-Account-Informationen nicht 
 									mit Facebook zu teilen, um deine Facebook-Werbung und Produkterlebnisse zu verbessern. <span class="red"><b>Bestehende Nutzer, die unseren aktualisierten 
@@ -56,7 +56,7 @@
 								Des weiteren begibt man sich mit der Installation von Whatsapp in ein rechtliches Minenfeld. Denn in den Nutzungsbedingungen heißt es:
 							</p>
 								<blockquote cite="https://www.whatsapp.com/legal/?l=de">
-								<cite><a href="https://www.whatsapp.com/legal/?l=de" rel="nofollow">https://www.whatsapp.com/legal/?l=de</a></cite>
+								<cite><a target="_blank" href="https://www.whatsapp.com/legal/?l=de" rel="nofollow">https://www.whatsapp.com/legal/?l=de</a></cite>
 								<br />
 									<b>Adressbuch.</b>
 									 Um einen WhatsApp-Account zu erstellen, gibst du deine Mobiltelefonnummer an. 
@@ -80,7 +80,7 @@
 								Das Minenfeld ist hier noch nicht zu Ende:
 							</p>
 								<blockquote cite="https://www.whatsapp.com/legal/?l=de">
-								<cite><a href="https://www.whatsapp.com/legal/?l=de" rel="nofollow">https://www.whatsapp.com/legal/?l=de</a></cite>
+								<cite><a target="_blank" href="https://www.whatsapp.com/legal/?l=de" rel="nofollow">https://www.whatsapp.com/legal/?l=de</a></cite>
 								<br />
 									<b>Deine Lizenz gegenüber WhatsApp.</b>
 									Damit wir unsere Dienste betreiben und bereitstellen können, <span class="red"><b>gewährst du WhatsApp eine weltweite, nicht-exklusive, gebührenfreie, 
@@ -120,22 +120,22 @@
 							</p>
 							<h3>Signal</h3>
 							<p>
-								<a href="https://whispersystems.org/">Signal</a> ist eine App die sowohl für Android als auch für IOS verfügbar ist. 
-								Ebenso gibt es ein <a href="https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk?hl=en"> Plugin für Chrome</a>.
+								<a target="_blank" href="https://whispersystems.org/">Signal</a> ist eine App die sowohl für Android als auch für IOS verfügbar ist. 
+								Ebenso gibt es ein <a target="_blank" href="https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk?hl=en"> Plugin für Chrome</a>.
 								<br /><br />
 								Signal hat eine gute Verschlüsselung verbaut und ist sehr einfach zu benutzen, (Video)-Telefonie ist möglich.
 								<br /><br />
 								Zur Installation wird allerdings der Google Play-Store benötigt. Zudem benötigt die App Google Cloud Messaging (GCM).
 								<br /><br />
-								Die Alternative <a href="https://github.com/LibreSignal/LibreSignal">LibreSignal</a> sollte das verbessern, wurde aber eingestellt.
+								Die Alternative <a target="_blank" href="https://github.com/LibreSignal/LibreSignal">LibreSignal</a> sollte das verbessern, wurde aber eingestellt.
 								<br /><br /><br />
 								
 							</p>
 							<h3>Telegram</h3>
 							<p>
-								<a href="https://www.telegram.org/">Telegram</a> ist sowohl für Android (<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger">PlayStore</a>, 
-								<a href="https://f-droid.org/repository/browse/?fdid=org.telegram.messenger">F-Droid</a>) als auch 
-								<a href="https://itunes.apple.com/app/telegram-messenger/id686449807">IOS</a>, Mac, Linux und Windows erhältlich. Ebenso steht eine Web-Version zur Verfügung.
+								<a target="_blank" href="https://www.telegram.org/">Telegram</a> ist sowohl für Android (<a target="_blank" href="https://play.google.com/store/apps/details?id=org.telegram.messenger">PlayStore</a>, 
+								<a target="_blank" href="https://f-droid.org/repository/browse/?fdid=org.telegram.messenger">F-Droid</a>) als auch 
+								<a target="_blank" href="https://itunes.apple.com/app/telegram-messenger/id686449807">IOS</a>, Mac, Linux und Windows erhältlich. Ebenso steht eine Web-Version zur Verfügung.
 								<br /><br />
 								Die versendeten Nachrichten sind standardmäßig allerdings NICHT Ende-zu-Ende verschlüsselt und die Server-Software ist nicht Open-Source.
 								
@@ -143,7 +143,7 @@
 							<p>
 							<h3>SMS/Telefon</h3>
 							<p>
-								SMS/Telefonie <b>schützt nicht vor (Massen)-Überwachung</b>, die Kommunikation kann auch von Kriminellen abgehört werden. Daher ist SMS bzw. Telefonie keine 
+								SMS/Telefonie <b>schützt nicht vor (Massen)-Überwachung</b>, die Kommunikation kann auch von Kriminellen abgehört werden. Daher sind SMS und Telefonie keine 
 								gute Alternative.
 								<br /><br /><br />
 							</p>

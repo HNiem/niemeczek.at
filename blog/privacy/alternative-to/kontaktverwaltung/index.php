@@ -3,20 +3,20 @@
 	<head>
 		<?php 
 
-			include "../../../template/head/head.php";
-			include "../../../template/head/lightbox.php";
+			include "../../../../template/head/head.php";
+			include "../../../../template/head/lightbox.php";
 		?>
 	</head>
 	<body>
 		<?php 
-			include '../../../template/header/header.php';
+			include '../../../../template/header/header.php';
 		?>
 
 		<section class="tabellen_zelle maximale_hoehe">
 		
 				<div id="headerbildhintergrund">
 				<?php 
-					include '../../../template/headerbild/headerbild.php';
+					include '../../../../template/headerbild/headerbild.php';
 				?>	
 								
 				</div>
@@ -24,7 +24,7 @@
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
 							<?php 
-								include '../../../template/blog/privacy/privacy.php';
+								include '../../../../template/blog/privacy/privacy.php';
 							?>	
 							
 
@@ -50,7 +50,7 @@
 	
 		</section>
 		<?php 
-			include '../../../template/footer/footer.php';
+			include '../../../../template/footer/footer.php';
 		?>	
 		<script src="/js/lightbox-plus-jquery.min.js"></script>
 	</body>

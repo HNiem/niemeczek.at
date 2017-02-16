@@ -41,17 +41,17 @@
 								
 								<br /><br />
 								Um mit Jabber chatten zu können braucht man erst mal einen sogenannten Client. Für Android-Geräte eignet sich vor allem die App <a href="https://conversations.im/">Conversations</a>. 
-								Diese ist im PlayStore erhältlich (2,39€). Die kostenlose Alternative ist der <a href="https://f-droid.org">F-Droid Appstore</a>, über den freie Apps 
+								Diese ist im PlayStore erhältlich (2,39€). Die kostenlose Alternative ist der <a target="_blank" href="https://f-droid.org">F-Droid Appstore</a>, über den freie Apps 
 								kostenlos erhältlich sind. <a href="/blog/privacy/android/index.php#F-DROID">Mehr Info zu F-Droid</a>
 								
-								Für sämtliche anderen Betriebssysteme sind ebenfalls Clients vorhanden. Empfehlungen sind <a href="https://jabber.at/clients/">hier gelistet</a>. 
+								Für sämtliche anderen Betriebssysteme sind ebenfalls Clients vorhanden. Empfehlungen sind <a target="_blank" href="https://jabber.at/clients/">hier gelistet</a>. 
 								<br /><br /><br /><br />
 								
 								
 								Als zweiten Schritt muss man sich bei einem Server anmelden. Als Server schlage ich vor:  
 								<br /><br />
 								<b>Jabber.at</b> Der Service wird von der Fachschaft für Informatik der TU Wien betrieben. 
-								Auf deren <a href="https://jabber.at/">Webseite</a> kann man sich registrieren. Anschließend die Anmeldedetails in der App eingeben, verbinden und loschatten.
+								Auf deren <a target="_blank" href="https://jabber.at/">Webseite</a> kann man sich registrieren. Anschließend die Anmeldedetails in der App eingeben, verbinden und loschatten.
 								<br /><br />
 								<b>jabber.ccc.de</b> Dieser Server wird vom Chaos Computer Club e.V. betrieben. Eine Anmeldung ist nur direkt über den Client möglich. 
 								Bei Conversations muss beispielsweise der gewünschte Name (z.B. <a href="xmpp:hniem@jabber.ccc.de">hniem@jabber.ccc.de</a>) und 
@@ -64,7 +64,7 @@
 								<br /><br /><br /><br />
 								Ein kurzer Überblick über die Funktionen von XMPP:
 								<b>(Video)-Telefonie:</b> Leider nur von wenigen Clients unterstützt
-								<b>Verschlüsselung:</b> Wenn OMEMO zur Verfügung steht, ist das das Mittel der Wahl. Sonst OTR oder PGP.
+								<b>Verschlüsselung:</b> Wenn <a target="_blank" href="https://www.heise.de/security/artikel/OMEMO-fuer-Jabber-eine-Einordnung-3603601.html">OMEMO</a> zur Verfügung steht, ist das das Mittel der Wahl. Sonst OTR oder PGP.
 								
 								
 							</p>

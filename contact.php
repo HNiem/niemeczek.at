@@ -39,13 +39,35 @@
 								<br /><br />
 								Another Option is XMPP/Jabber (<a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>).
 								<br /><br />
-								PGP-Key:
-								<br />
-								<a href="/GnuPG/Harald Niemeczek harald@niemeczek.at (0x68A0EF1D) pub.asc">0x68A0EF1D</a>
-								<br />
-								GPG-Fingerprint: 9258 49E8 4B61 5C76 235A DE49 FD27 9AD7 68A0 EF1D
+							</p>
+							<h2>PGP-Keys:</h2>
+							<p>
+								<a href="/GnuPG">What is PGP?</a>
 								<br /><br />
-								OMEMO-Fingerprint: 39759531 a868f6e5 f922d90a 2f8dbbae b618cd26 476fc89d 019940f2 c4484920 
+								<b>Key for usual signing and encrypting:</b> 
+								<br />
+								<a href="/GnuPG/Harald Niemeczek harald@niemeczek.at (0x68A0EF1D) pub.asc">0x68A0EF1D</a>  -  
+								Fingerprint: 9258 49E8 4B61 5C76 235A DE49 FD27 9AD7 68A0 EF1D
+								<br /><br />
+								This key uses <a target="_blank" href="https://wiki.debian.org/Subkeys">Subkeys</a>, the master key is stored as an offline key, so that if there happens something, 
+								I only need to replace the subkeys. These are rotated every 2 years, too. This key can be considered to have medium security level. It is signed by my 
+								<br /><br />
+								<b>Keysigning Key</b>
+								<br />
+								<a href="/GnuPG/GPG_PUBLIC_KEY_FILENAME.asc">SCHLÜSSELKENNUNG</a>  -  
+								Fingerprint: 000 000 000 000 000 000
+								<br /><br />
+								This is an offline key, only used to sign (my) other keys and as my connection to the web of trust. This key can be considered to have a high level of security.
+								
+								
+								
+								
+								<br />
+								<a href="https://keybase.io/hnieme">Keybase.io</a>
+								<br /><br />
+								<b><a target="_blank" href="https://www.heise.de/security/artikel/OMEMO-fuer-Jabber-eine-Einordnung-3603601.html" >OMEMO</a>-Fingerprint:</b> 
+								<br />
+								39759531 a868f6e5 f922d90a 2f8dbbae b618cd26 476fc89d 019940f2 c4484920 
 								<br />
 								(for <a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>)
 								<br /><br />

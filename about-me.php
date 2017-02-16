@@ -37,26 +37,17 @@
 					<!--		<h2>consecteteur adipiscing elit fermentum</h2> -->
 							<p>
 								I am Harald Niemeczek, writer of this website. Currently I study Software & Information Engineering (Bachelor) at 
-								<a href="https://www.tuwien.ac.at/EN/">TU Wien</a>, after	I completed the final exams at <a href="http://www.gartenbau.at/">
+								<a target="_blank" href="https://www.tuwien.ac.at/EN/">TU Wien</a>, after	I completed the final exams at <a target="_blank" href="http://www.gartenbau.at/">
 								College for Horticulture and Landscape Design</a> in summer 2016. I live in Vienna. 
 							<br /><br />
 								At this website you can find a lot of stuff around the topics privacy, photograpy and environmental protection. 
 							</p>
-						<!--	<p>
-								Privacy is a very important topic to me, so there will be a lot of stuff around this topic at this website. Since computers and 
-								"the internet" are not well understood by many people I try to provide easily understandable information, especially on how privacy 
-								is important to all of us and how we can ensure private communication.
-							<br /><br />
-							</p>
 							<p>
-								Another really important topic to me is environmental protection. We are emitting a huge amount of CO<sub>2</sub> and other greenhouse gases, 
-								produce immense quantities of waste and also destroy the nature in other ways. Although it would not be that challenging to reduce all these emissions
-								to a minimum, it is very rarely done. Parts of that website may provide help, especially showing how to recycle products that would be thrown away otherwise.
-							<br /><br />
+								<br />
+								My brother is a professional triathlete, you can find his website <a target="_blank" href="https://www.sport-oesterreich.at/roland-niemeczek">here</a>.
+							
 							</p>
-							<p>
-								The third important topic here is my hobby photography, I will show images and time-lapse recordings I have made.
-							</p> -->
+						
 								
 						</div>
 					</div>					

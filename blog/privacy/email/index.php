@@ -59,7 +59,7 @@
 							
 							<h3>Posteo.de</h3>
 							<p>
-								<a href="https://posteo.de"> Posteo</a> bietet für einen Euro monatlich eine E-Mail Adresse (+zwei Alias-Adressen) mit 2GB Postfachgröße (erweiterbar), 
+								<a target="_blank" href="https://posteo.de"> Posteo</a> bietet für einen Euro monatlich eine E-Mail Adresse (+zwei Alias-Adressen) mit 2GB Postfachgröße (erweiterbar), 
 								Eingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbares, verschlüsselbares Adressbuch, drei synchronisierbare, 
 								verschlüsselbare Kalender usw. an. 
 								<br /><br />
@@ -69,16 +69,16 @@
 								Posteo gibt an, vollkommen auf Datenhandel oder Datenweitergabe zu verzichten, verlangt nicht die Angabe persönlicher Daten und sogar 
 								eine anonyme Zahlung (Bargeld per Post) ist möglich.
 								Mails von einer eigenen Domain (das teil rechts vom @ in der Mailadresse) zu versenden ist leider nicht möglich, da dafür persönliche 
-								Daten erhoben werden müssten. Auch ein <a href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> ist derzeit noch nicht verfügbar.
+								Daten erhoben werden müssten. Auch ein <a target="_blank" href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> ist derzeit noch nicht verfügbar.
 								(Ist laut Anfrage an den Support im Herbst 2016 geplant und befindet sich derzeit in rechtlicher Prüfung). 
 								Einzelne Dienste (weitere Alias-Adressen, mehr Speicherplatz etc.) können zugebucht werden.
-								Weitere Informationen sind unter <a href="https://posteo.de/site/leistungen">Leistungen</a> einzusehen. 
+								Weitere Informationen sind unter <a target="_blank" href="https://posteo.de/site/leistungen">Leistungen</a> einzusehen. 
 								<br /><br />
 								<br /><br />
 							</p>
 							<h3 id="MAILBOX-ORG">Mailbox.org</h3>
 							<p>
-								Auch <a href="https://mailbox.org/">Mailbox.org</a> bietet für einen Euro monatlich ein E-Mail Postfach mit 2GB Speicherplatz (erweiterbar) und 
+								Auch <a target="_blank" href="https://mailbox.org/">Mailbox.org</a> bietet für einen Euro monatlich ein E-Mail Postfach mit 2GB Speicherplatz (erweiterbar) und 
 								drei Alias-Adressen, synchronisierbares Adressbuch, synchronisierbaren Kalender, synchronisierbaren Aufgabenplaner, über den Browser zugreifbare 
 								Office-Programme mit 100 MB Dateispeicher.
 								<br /><br />
@@ -87,8 +87,8 @@
 								möglich. Das Anlegen eines Testaccounts für 30 Tage ist ebenfalls möglich (mit gewissen Einschränkungen).
 								<br /><br />
 								Zudem ist ein <a href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> für Kunden verfügbar. 
-								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
-								<a href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
+								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
+								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
 								ebenfalls genutzt werden. Die Domain kann aber nicht über mailbox.org registriert werden, dies muss über einen externen Anbieter geschehen.
 								<br /><br />
 								Es ist möglich, seine PGP Schlüsseln hochzuladen, um damit online verschlüsseln zu können. Das sehe ich aber sehr kritisch, 

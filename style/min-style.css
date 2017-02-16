@@ -41,8 +41,7 @@ a:hover {
 }
 a:active {
 	color: rgb(116,229,9); 
-	border: none;
-	
+	/*hallo??*/
 }
 
 
@@ -259,9 +258,39 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	background: rgb(53,59,59);
 }
 .menue-button {
-	display: none;
+		display: none;
+		background-color: none;	
+		position: absolute;
+		padding: 5px;
+		cursor: pointer;
+		text-decoration: none;
+		border: 2px rgba(225,223,223,0.8) solid;
+		border-radius: 4px;
+	}
+.menue-button-line {
+		display: block;
+		background-color: rgba(225,223,223,0.8);
+		width: 20px;
+		height: 3px;
+		margin: 3px 2px 3px 2px;
+		border-radius: 2px;
 }
-
+.menue-button:hover {
+		background: rgba(255,253,253,0.4);
+}
+.menue-button:active {
+	border: 2px rgba(225,223,223,0.8) solid;
+}
+.menue-button-header {
+		right: 7px;
+		top: 7px;
+}
+.menue-button-footer {
+		right: 7px;
+		bottom: 7px;
+		margin-bottom: -3px;
+		padding: 4px;
+}
 
 
 
@@ -270,23 +299,23 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 
 /*TEST DROPDOWN CSS*/
 
-#dropdown-parent:hover #dropdown-ul {
+.dropdown-parent:hover .dropdown-ul {
 	display: block;
 }
 
-#dropdown-ul {
+.dropdown-ul {
 	position: absolute;
 	display: none;
 	background-color: rgba(14,15,15,0.7);
 
 
 }
-#dropdown-ul li{
+.dropdown-ul li{
 	border-bottom: 1px solid rgba(99, 110, 110, 0.7);
 	width: 100%;
 
 }
-#dropdown-ul li a:hover {
+.dropdown-ul li a:hover {
 	background-color: rgba(14,15,15,0.7);
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -390,20 +419,20 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	margin-bottom: 3em;
 }
 
-.databox ul {
+.newsbox ul {
 	width: 100%;
 	padding: 0;
 	margin: 0;
 	color: red;
 }
-.databox ul li {
+.newsbox ul li {
 	width: 100%;
 	padding: 0;
 	margin: 0;
 	list-style: none;
 
 }
-.databox ul li a {
+.newsbox ul li a {
 	display: block;
 	width: 100%;
 	padding: 0;
@@ -412,7 +441,7 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	padding: 4px 15px 3px 10px;
 	color: rgb(288,288,266);
 }
-.databox ul li a:hover {
+.newsbox ul li a:hover {
 	background-color: rgba(288,288,266,0.2);
 	text-decoration: none;
 }
@@ -441,35 +470,62 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	border-top: 2px rgb(33,93,156) solid;
 }
 
-#footer_height{
+footer {
 	height: auto;
 	background-color: rgb(57,63,63);
 	padding-left: 15px;
+	position: absolute;
+	width: 100%;
 }
-
+footer div {
+	float: left;
+	padding: 0.8em;
+	color: white; 
+	font-weight: bold;
+}
+@media only screen and (max-width:820px) {
+	footer {
+		padding-left: 0;
+		background-color: rgb(48, 53, 53);
+	}
+	footer div {
+		width: 100%;
+		float: left;
+		border-top: 1px solid rgb(86,89,88);
+	}
+	footer nav {
+		display: none;	
+	}
+	#footer-menue:target nav {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	#footer-menue:target nav ul li {
+		display: block;
+		float: left;
+		width: 100%;
+	}
+	#footer-menue:target nav ul li a{
+		border-top: 1px solid rgb(86,89,88);
+	}
+	#footer-menue:target nav ul li a:hover{
+		background-color: rgb(63, 69, 69);
+	}
+	.menue-button-footer {
+		bottom: 7px;
+		display: block;
+	}
+	#footer-menue:target .menue-button-footer-open {
+		display: none;
+	}
+}
 
 
 /* CSS um MENU-Button und mobile Steuerung erweitern ####################################################### */
 @media only screen and (max-width:732px) {
-	.menue-button {
-		background-color: none;	
+	.menue-button-header {
 		display: block;
-		position: absolute;
-		right: 7px;
-		top: 7px;
-		padding: 5px;
-		cursor: pointer;
-		text-decoration: none;
-		border: 2px rgba(225,223,223,0.8) solid;
-		border-radius: 4px;
-	}
-	.menue-button-line {
-		display: block;
-		background-color: rgba(225,223,223,0.8);
-		width: 20px;
-		height: 3px;
-		margin: 3px 2px 3px 2px;
-		border-radius: 2px;
 	}
 	#bereichlogo{  
 		width: 100%;
@@ -483,9 +539,6 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 		width: 100%;
 		display: none;
 	}
-	.menue-button:hover {
-		background: rgba(255,253,253,0.4);
-	}
 	#nav-menue:target #steuerung {
 		display: block;
 	}
@@ -497,13 +550,13 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 		border-top: none;
 	}
 /*T Mobile DROPDOWN CSS*/
-#dropdown-ul {
+.dropdown-ul {
 	position: relative;
 	display: block;
 
 
 }
-#dropdown-ul li{
+.dropdown-ul li{
 	border-bottom: 1px none rgba(99, 110, 110, 0.7);
 	border-top: 1px solid rgba(99, 110, 110, 0.7);
 	width: 100%;
@@ -511,7 +564,7 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	padding-left: 9px;
 
 }
-#dropdown-ul li a:hover {
+.dropdown-ul li a:hover {
 	background-color: rgb(80, 82, 82);
 }	
 	

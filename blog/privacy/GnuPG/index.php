@@ -39,25 +39,33 @@
 							<h3>Grundlagen E-Mail</h3>
 							<p>
 								Wenn Du ein E-Mail versendest (beispielsweise an mich), dann sendest Du das E-Mail nicht direkt an mich, 
-								sondern erst mal an Deinen E-Mail-Provider (Gmail, Gmx, ...). Die Verbindung ("Protokoll") heißt SMTP und ist meist verschlüsselt. 
-								Der E-Mail-Provider leitet Deine Mail dann über das Internet weiter zu mir. Da einige E-Mail Provider noch keine 
-								Verschlüsselung anbieten, besteht die Gefahr, dass E-Mails hier unverschlüsselt oder nur schlecht verschlüsselt 
-								übertragen werden. Kriminelle und Geheimdienste haben hier leichtes Spiel und können die Verbindungen (E-Mails) mitlesen.
-								Mein E-Mail-Provider gibt das empfangene E-Mail verschlüsselt über die "Protokolle" SMTP oder POP verschlüsselt an meinen PC/Handy 
-								weiter, wo ich es nun lesen kann. 
+								sondern erst mal über das Internet an Deinen E-Mail-Provider (Gmail, Gmx, ...). Die Verbindung ("Protokoll") heißt SMTP und ist meist verschlüsselt. 
+								Der E-Mail-Provider leitet Deine Mail dann über das Internet weiter zu meinem E-Mail-Provider. 
+								Dieser gibt das empfangene E-Mail verschlüsselt über die "Protokolle" SMTP oder POP verschlüsselt an meinen PC oder mein Handy 
+								weiter, wo es nun gelesen werden kann. 
 								<br />
 								<br />
+								
+								
+								
+								
+								
+								Da einige E-Mail Provider noch keine oder nur veraltete Verschlüsselung für die Verbindung zwischen den Servern anbieten, 
+								besteht die Gefahr, dass E-Mails hier unverschlüsselt oder nur schlecht verschlüsselt übertragen werden. 
+								Kriminelle und Geheimdienste haben hier leichtes Spiel und können die Verbindungen (E-Mails) mitlesen.								
+								
 								Nun ist allerdings nicht nur die Verbindung zwischen den E-Mail Providern recht leicht lesbar, sondern auf den Servern der E-Mail Provider
 								liegt die E-Mail ebenfalls im Klartext (unverschlüsselt) vor. Das wird beispielsweise genutzt, um auszuwerten, auf welche Werbung Du besonders 
 								ansprichst, damit Dein E-Mail-Provider mit Dir Geld verdienen kann. Außerdem kam im Rahmen der Veröffentlichung der 
 								<a href="https://de.wikipedia.org/wiki/Edward_Snowden">Snowden-Leaks</a> heraus, dass die NSA 
 								<a href="https://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html">
-								Zugriff auf die Datencenter von Google und Yahoo</a> hat. 
+								Zugriff auf die Datencenter von Google und Yahoo</a> hat und daher alle Deine Mails lesen kann. 
 								<br />
 								<br />
 								Ein zweiter wichtiger Punkt ist, dass die Absender von E-Mails ziemlich einfach gefälscht werden können. Im Prinzip kann jeder 
 								ein Mail mit einer beliebigen Absenderadresse* versenden. Das macht es Kriminellen sehr leicht - Einem Link in einer E-Mail 
-								eines guten Freundes wird man ja nicht misstrauen!
+								eines guten Freundes wird man ja nicht misstrauen! <a href="/blog/privacy/blog/002_JavaScriptUndViren.php">Mit Viren verseuchte 
+								Seiten können Deinen Computer infizieren!</a>
 								<br /><br /><br /><br />
 							</p>
 							<h3>Grundlagen PGP</h3>
@@ -83,20 +91,24 @@
 								Trotzdem sind noch Metadaten (Also wann das E-Mail gesendet wurde, von wem es an wen gesendet wurde, die IP-Adresse des Absenders und damit 
 								von wo der Absender das Mail gesendet hat, den Betreff der Nachricht etc.) einfach lesbar. Weitere Informationen dazu gibt es <a href="/blog/privacy/email/">hier</a>. 
 								<br /><br />
-								<b>Wie garantiert man die Echtheit eines öffentlichen Schlüssels?</b> (Der könnte ja auch gefälscht worden sein!)
+								<b>Wie garantiert man die Echtheit eines öffentlichen Schlüssels?</b> 
 								<br />
-								Es ist nicht immer einfach möglich, den Empfänger eines E-Mail direkt zu treffen, um so seinen Schlüssel zu erhalten. Meist lädt man die Schlüsseln 
-								des Empfängers von einem Key-Server herunter. Die Echtheit der Schlüsseln wird durch ein "Web of Trust", ein "Vertrauensnetz" überprüft. 
+								(Der könnte ja auch gefälscht worden sein!)
+								<br /><br />
+								Es ist nicht immer einfach möglich, den Empfänger einer E-Mail direkt zu treffen, um so seinen Schlüssel zu erhalten. Meist lädt man die Schlüsseln 
+								des Empfängers von einem sogenannten Key-Server herunter. Die Echtheit der Schlüsseln wird durch ein "Web of Trust", also ein "Vertrauensnetz" überprüft. 
 								<br />
 								Das funktioniert so: Mit dem privaten Schlüssel können nicht nur E-Mails, sondern auch andere Daten signiert (unterschrieben) werden. 
-								Nun unterschreibt man die privaten Schlüssel seiner Bekannten, die unterschreiben wieder die privaten Schlüssel ihrer Bekannten und so weiter. 
+								Nun unterschreibt man die Schlüssel seiner Bekannten, die unterschreiben wieder die privaten Schlüssel ihrer Bekannten und so weiter. 
 								Nun entsteht ein Netz an Unterschriften, mit durch das man auch die Echtheit der von Servern heruntergelandenen Schlüsseln wildfremder Menschen feststellen kann.
-								Das wird dann "Chain of Trust" genannt.
+								Das wird dann "Chain of Trust" genannt.<br />
+								Natürlich kann man die Echtheit der Schlüsseln wildfremder Menschen nicht ganz zweifelsfrei bestimmen, aber wenn ein oder zwei recht kurze Ketten an 
+								Unterschriften existieren, dann kann sich zumindest halbwegs sicher sein.
 								<br /><br />
 								(Mehr Info dazu, wie verbunden wir sind: <a href="https://www.youtube.com/watch?v=TcxZSmzPw8k" target="_blank">Veritasium: The Science of Six Degrees of Separation (YouTube)</a> und
-								<a href="2veritasium" target="_blank">2Veritasium: How Connected Are We? (YouTube)</a>)
+								<a href="https://www.youtube.com/watch?v=gujZgDaFp3U" target="_blank">2Veritasium: How Connected Are We? (YouTube)</a>)
 								<br /><br />
-								Um Schlüssel zu signieren gibt es auch sog. Key Signing Parties.
+								Um Schlüssel zu signieren gibt es auch sogenannte Key Signing Parties.
 								<br /><br />
 								Für Windows-User geht es <a href="windows.php">hier</a> weiter, Linux-User sparen sich den Schritt der PGP-Installation da die Software in der Regel bereits 
 								mit der Distribution ausgeliefert wird. Für Linux-User geht es <a href="linux.php">hier</a> weiter.

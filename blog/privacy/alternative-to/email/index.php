@@ -59,8 +59,8 @@
 							
 							<h3>Posteo.de</h3>
 							<p>
-								<a href="https://posteo.de"> Posteo</a> bietet für einen Euro monatlich eine E-Mail Adresse (+zwei Alias-Adressen) mit 2GB Postfachgröße (erweiterbar), 
-								Eingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbares, verschlüsselbares Adressbuch, drei synchronisierbare, 
+								<a target="_blank" href="https://posteo.de"> Posteo</a> bietet für einen Euro monatlich eine E-Mail Adresse (+zwei Alias-Adressen) mit 2GB Postfachgröße (erweiterbar), 
+								Posteingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbares, verschlüsselbares Adressbuch, drei synchronisierbare, 
 								verschlüsselbare Kalender usw. an. 
 								<br /><br />
 								Der Strom wird von von Greepeace Energy (100% Ökostrom) bezogen, es wird ressourcenschonende 
@@ -69,30 +69,34 @@
 								Posteo gibt an, vollkommen auf Datenhandel oder Datenweitergabe zu verzichten, verlangt nicht die Angabe persönlicher Daten und sogar 
 								eine anonyme Zahlung (Bargeld per Post) ist möglich.
 								Mails von einer eigenen Domain (das teil rechts vom @ in der Mailadresse) zu versenden ist leider nicht möglich, da dafür persönliche 
-								Daten erhoben werden müssten. Auch ein <a href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> ist derzeit noch nicht verfügbar.
+								Daten erhoben werden müssten.<sup>[1]</sup> Auch ein <a href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> ist derzeit noch nicht verfügbar.
 								(Ist laut Anfrage an den Support im Herbst 2016 geplant und befindet sich derzeit in rechtlicher Prüfung). 
 								Einzelne Dienste (weitere Alias-Adressen, mehr Speicherplatz etc.) können zugebucht werden.
-								Weitere Informationen sind unter <a href="https://posteo.de/site/leistungen">Leistungen</a> einzusehen. 
+								Weitere Informationen sind unter <a target="_blank" href="https://posteo.de/site/leistungen">Leistungen</a> einzusehen. 
 								<br /><br />
 								<br /><br />
 							</p>
 							<h3 id="MAILBOX-ORG">Mailbox.org</h3>
 							<p>
-								Auch <a href="https://mailbox.org/">Mailbox.org</a> bietet für einen Euro monatlich ein E-Mail Postfach mit 2GB Speicherplatz (erweiterbar) und 
-								drei Alias-Adressen, synchronisierbares Adressbuch, synchronisierbaren Kalender, synchronisierbaren Aufgabenplaner, über den Browser zugreifbare 
-								Office-Programme mit 100 MB Dateispeicher.
+								Auch <a target="_blank" href="https://mailbox.org/">Mailbox.org</a> bietet für einen Euro monatlich ein E-Mail Postfach mit 2GB Speicherplatz (erweiterbar) und 
+								drei Alias-Adressen, Posteingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbares Adressbuch, synchronisierbaren Kalender, synchronisierbaren 
+								Aufgabenplaner, über den Browser zugreifbare Office-Programme mit 100 MB Dateispeicher. Die Sicherheitsfeatures sind 
+								<a target="_blank" href="https://mailbox.org/sicherheit-privacy-bei-mailbox-org/">hier</a> einsehbar.
 								<br /><br />
 								Die Server werden mit 100% Ökostrom verschiedener Anbieter betrieben, die Büros mit Ökostrom des Anbieters Lichtblick. Die Bezahlung verschiedener Pakete
 								ist per per Überweisung, Paypal, Bitcoin, Bargeldeinzahlung auf Girokonto oder Bargeld per Post möglich, die vollkommen anonyme Nutzung des Services ebenfalls 
 								möglich. Das Anlegen eines Testaccounts für 30 Tage ist ebenfalls möglich (mit gewissen Einschränkungen).
 								<br /><br />
-								Zudem ist ein <a href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> für Kunden verfügbar. 
-								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
-								<a href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
+								Zudem ist ein <a target="_blank" href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> für Kunden verfügbar. 
+								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
+								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
 								ebenfalls genutzt werden. Die Domain kann aber nicht über mailbox.org registriert werden, dies muss über einen externen Anbieter geschehen.
 								<br /><br />
 								Es ist möglich, seine PGP Schlüsseln hochzuladen, um damit online verschlüsseln zu können. Das sehe ich aber sehr kritisch, 
-								private PGP-Keys haben anderswo als am eigenen Rechner nichts zu suchen.
+								private PGP-Keys haben anderswo als am eigenen Rechner nichts zu suchen. Besser ist es das 
+								<a href="https://www.mailvelope.com/de" target="_blank">Mailvelope-Plugin</a>, 
+								<a href="/blog/privacy/GnuPG/thunderbird-enigmail.php"> Enigmail in Thunderbird oder auf Android <a href="/blog/privacy/GnuPG/android.php">OpenKeyChain 
+								mit K-9-Mail</a> zu nutzen.
 								<br /><br />
 								<br /><br />
 								
@@ -102,8 +106,14 @@
 							<hr />
 							<p>
 							<br />
-								Die Beschreibungen der Unternehmen sind übrigens freiwillig. Ich erhalte dafür weder Geld noch andere Leistungen. Ich bin nicht / war noch nicht Kunde der
-								beiden Unternehmen, die Texte sind auf Basis der Webseiten und Rückfragen beim Support entstanden.
+								<b>Transparenzhinweis:</b> Die Beschreibungen der Unternehmen sind übrigens freiwillig. Ich erhalte dafür weder Geld noch andere Leistungen. Ich bin nicht / war noch nicht Kunde der
+								beiden Unternehmen und kann aus diesem Grund über keine eigenen Erfahrungen berichten, die Texte sind auf Basis der Webseiten und Rückfragen beim Support 
+								entstanden. Ich habe am 2017-12-27 ein Mail an beide Unternehmen gesendet. Eine Antwort kam nur von mailbox.org, diese baten um einige Ergänzungen, die ich durchgeführt habe. 
+								<br />
+								<br />
+								[1] Diese Aussage ist Ergebnis einer <a href="https://posteo.de/site/faq#eigenedomains" target="_blank">Recherche</a> bei Posteo. Mailbox.org wies 
+								mich in einer Mail darauf hin, dass dies falsch ist und beschreibt dies auch in den eigenen 
+								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen" target="_blank">FAQ</a>.
 							</p>
 
 

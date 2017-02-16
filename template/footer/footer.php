@@ -1,6 +1,5 @@
-		<footer class="tabellen_zelle" id="footer_height">
-				<div id="testfooter"></div>
-			
+		<footer class="tabellen_zelle" id="footer-menue">
+
 				<nav id="steuerung_footer">
 					<ul>
 						<li><a href="/official/impressum.php">Impressum</a></li>
@@ -10,7 +9,18 @@
 		<!--				<li><a href="#">Lorem Ipsum</a></li>		-->		
 					</ul>
 				</nav>
-					
+				<div>&copy; 2016-17 Harald Niemeczek</div>
+				<a class="menue-button menue-button-footer menue-button-footer-close" href="#a ">
+					<span class="menue-button-line"></span>
+					<span class="menue-button-line"></span>
+					<span class="menue-button-line"></span>
+				</a>
+				<a class="menue-button menue-button-footer menue-button-footer-open "  href="#footer-menue">
+					<span class="menue-button-line"></span>
+					<span class="menue-button-line"></span>
+					<span class="menue-button-line"></span>
+				</a>
+			<!--	<div class="linie_nach_unten_wenn_geoeffnet"></div> --> 
 		</footer>
 				<!-- Piwik -->
 <script type="text/javascript">
