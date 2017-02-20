@@ -50,20 +50,10 @@
 									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
 								</video>	
 								Zeitrafferaufnahme aus 254 Einzelbildern, aufgenommen in Bad Kleinkirchheim im August 2015. 
-								<br /><br />
-								<video class="video-full" controls>
-									<source src="/images/fotografie/timelapse/SonnenuntergangDach.webm" type="video/webm">
-									<source src="/images/fotografie/timelapse/SonnenuntergangDach.ogv" type="video/ogg">
-									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
-								</video>	
-								Zeitrafferaufnahme, aufgenommen auf unserem Hausdach, 2015. 
-								<br /><br />
-								<video class="video-full" controls>
-									<source src="/images/fotografie/timelapse/timelapse_fischen_KuchelauerHafen_Sommer2015.webm" type="video/webm">
-									<source src="/images/fotografie/timelapse/timelapse_fischen_KuchelauerHafen_Sommer2015.ogv" type="video/ogg">
-									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
-								</video>	
-								Zeitrafferaufnahme, aufgenommen am Kuchelauer Hafen in Wien im Juli? 2015. 
+								
+								
+								
+								
 								<br /><br />
 								<video class="video-full" controls>
 									<source src="/images/fotografie/timelapse/TimelapseWienflussRenovierung2.webm" type="video/webm">
@@ -71,7 +61,47 @@
 									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
 								</video>	
 								Zeitrafferaufnahme der U4-Renovierung im Juli 2016. 
+								<br /><br />								
+								
+								
+								
 								<br /><br />
+								<video class="video-full video-full-2alternatives" controls>
+									<source src="/images/fotografie/timelapse/2016_09_16_Radtour-Schladming-alleine-1000px.webm" type="video/webm">
+									<source src="/images/fotografie/timelapse/2016_09_16_Radtour-Schladming-alleine-1000px.ogv" type="video/ogg">
+									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
+								</video>
+								<video class="video-full video-small-2alternatives" controls>
+									<source src="/images/fotografie/timelapse/x2016_09_16_Radtour-Schladming-alleine500px.webm" type="video/webm">
+									<source src="/images/fotografie/timelapse/x2016_09_16_Radtour-Schladming-alleine500px.ogv" type="video/ogg">
+									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
+								</video>
+								Zeitraffer, 16. September 2016, Ennstal. 657 Bilder.
+
+								
+								
+								
+								<video class="video-full" controls>
+									<source src="/images/fotografie/timelapse/SonnenuntergangDach.webm" type="video/webm">
+									<source src="/images/fotografie/timelapse/SonnenuntergangDach.ogv" type="video/ogg">
+									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
+								</video>	
+								Zeitrafferaufnahme, aufgenommen auf unserem Hausdach, 2015. 
+								<br /><br />
+								
+								
+								
+								<video class="video-full" controls>
+									<source src="/images/fotografie/timelapse/timelapse_fischen_KuchelauerHafen_Sommer2015.webm" type="video/webm">
+									<source src="/images/fotografie/timelapse/timelapse_fischen_KuchelauerHafen_Sommer2015.ogv" type="video/ogg">
+									Ups. Dein Browser unterstützt keine OGG/WebM-HTML5-Videos. Versuche ihn zu updaten oder nutze einen anderen.
+								</video>	
+								Zeitrafferaufnahme, aufgenommen am Kuchelauer Hafen in Wien im Juli? 2015. 
+								<br /><br />
+								
+								
+								
+								
 								<video class="video-full" controls>
 									<source src="/images/fotografie/timelapse/langeTimelapseOma2016.webm" type="video/webm">
 									<source src="/images/fotografie/timelapse/langeTimelapseOma2016.ogv" type="video/ogg">

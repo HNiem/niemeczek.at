@@ -265,6 +265,20 @@ blockquote cite a:active {
 	height: auto;
 	margin: 20px 2.5% 10px 1%;
 }
+
+.video-full-2alternatives {
+	display: none;
+}
+@media only screen and (min-width:800px) {
+	.video-small-2alternatives {
+		display: none;
+	}
+	.video-full-2alternatives {
+		display: inline;	
+	}
+
+
+}
 .img-full {
 	width: 95%;
 	height: auto;
