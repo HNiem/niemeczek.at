@@ -34,7 +34,7 @@
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 							<h1>Zeitraffer/Timelapse</h1>
-							<img src="/images/fotografie/timelapse/zeitraffer-titelbild.jpg" alt="" width="1px" height="1px" style="float: left;" />
+							<img src="/images/fotografie/timelapse/zeitraffer-titelbild-2.jpg" alt="" width="1px" height="1px" style="float: left;" />
 							<p>
 								Bei der Aufnahme von Zeitraffern werden im Abstand von wenigen Sekunden (je nach Motiv bzw. Geschwindigkeit der Wolken 3-15s) Bilder aufgenommen, die dann durch eine Software zu einem Film verarbeitet werden.
 								<br /><br />
