@@ -40,6 +40,11 @@
 								Another Option is XMPP/Jabber (<a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>).
 								<br /><br />
 							</p>
+							<p>
+								<a href="https://twitter.com/HNieme" target="_blank">Twitter</a> (rarely visited!)
+								<br /><br /><br />
+								
+							</p>	
 							<h2>PGP-Keys:</h2>
 							<p>
 								<a href="/GnuPG">What is PGP?</a>
@@ -73,8 +78,7 @@
 								<br /><br />
 							</p>
 							
-							<p>
-								
+
 						</div>
 					</div>					
 	

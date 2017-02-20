@@ -35,8 +35,10 @@
 							<p> 
 								The Lightbox used at this site is from <a target="_blank" href="http://lokeshdhakar.com/projects/lightbox2/">http://lokeshdhakar.com/projects/lightbox2/</a>. 
 								<br />It is licensed under the <a target="_blank" href="https://github.com/lokesh/lightbox2/blob/master/LICENSE">MIT LICENSE.</a>
-								
+								<br /><br />
 							</p>
+							<h5>Images</h5>
+							<p>Logo of GnuPG: Source: <a href="https://www.gnupg.org/copying.html" target="_blank">GnuPG.org</a>, GPL v.3+, bearbeitet</p>
 							<p>
 								<br /><br /><br /><br /><br /><br />
 								If there are found any missing, wrong or misleading informations you are encouraged to <a href="/contact/contact.php">contact</a> me. I will fix that.

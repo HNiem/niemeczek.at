@@ -31,22 +31,85 @@
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
+								<section class="preview preview-bi">
+									<section class="preview-inner">
+										<a href="/blog/privacy/">
+											<h2>Privacy</h2>
+											<p>
+										<!--		Protecting yourself against watching government agencies, criminals, employers and so on can be tough today. Here you can learn how to stay private.
+												<br />
+												You think you have nothing to hide? I tell you why that is wrong. 
+												<br /><br />
+												Currently, all the content there is only available in German. Sorry!-->
+												Sich im Zeitalter digitaler Kommunikation gegen spionierende Geheimdienste, Unternehmen und Kriminelle zu schützen ist keine einfache Aufgabe.
+												<br />
+												Ich zeige Dir, wie es geht.
+											</p>
+										</a>
+									</section>
+									<section class="preview-inner">
+										<a href="/blog/horticulture/blumenstraeusse.php">
+											<h2>Horticulture</h2>
+											<p>
+												A post about bouquets and floral arrangements I made. More is coming soon :)
+											</p>
+										</a>
+									</section>
+								</section>
+								<section class="preview">
+									<a href="/blog/horticulture/blumenstraeusse.php">
+										<div class="preview-img">
+											<img src="/images/horticulture/blumenstraeusse/Facebookchat-oberaigner-small.jpg" alt="Floral arrangement" />
+										</div>
+										<div class="preview-text">
+											<h2>Bouquets and Floral Arrangements</h2>
+											<p>
+												Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+												sed diam nonumy eirmod tempor invidunt ut labore et dolore 
+												magna aliquyam erat, sed diam voluptua. At vero eos et 
+												accusam et justo duo dolores et ea rebum.
+											</p>
+											<p class="preview-more">
+												more...
+											</p>
+										</div>
+									</a>
+								</section>
+								<section class="preview">
+									<a href="/blog/privacy/GnuPG/">
+										<div class="preview-img">
+											<img src="/images/blog/privacy/GnuPG/logo-gnupg-light-purple-bg-half-transparent-shade1.png" alt="Logo von GnuPG" />
+										</div>
+										<div class="preview-text">
+											<h2>Verschlüssle Deine E-Mails</h2>
+											<p>
+												Oftmals gehen E-Mails unverschlüsselt um die ganze Welt, und können dabei von Geheimdiensten gelesen werden. Auch Dein E-Mail-Provider kann mitlesen.
+										
+												Wie Du Dich dagegen schützen kannst zeige ich hier. 
+											</p>
+											<p class="preview-more">
+												mehr...
+											</p>
+										</div>
+									</a>
+								</section>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
+							<div class="height-10px"></div>
 
-							<h1>SORRY!</h1>
-							<h2>PAGE UNDER CONSTRUCTION</h2>
-						
-							<p>
-								This page is currently under construction. 
-								<br />
-								Don't worry, you can find information on other pages of that website!
-								<br /><br />
-								Two blog entries can be found here:
-								<br /><br />
-								<a href="/blog/horticulture/blumenstraeusse.php">Bouquets and floral arrangements</a>
-								<br />
-								<a href="/blog/privacy/GnuPG/">Information around PGP</a>
-								
-							</p>
+
+							<p>(<a href="https://www.gnupg.org/copying.html" target="_blank">Image-Source: GnuPG.org</a>, GPL v.3, bearbeitet)</p>
 
 
 

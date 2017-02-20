@@ -55,7 +55,8 @@
 								<a href="/images/fotografie/starlapse/startrails-kroatien.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
    								<img class="img-full" src="/images/fotografie/starlapse/startrails-kroatien-small.png" alt="alternative Erklärung">
  								</a>
- 								<p>Sternstrichspuraufnahme aus Kroatien, aufgenommen im Sommer 2015, rechts ist ein Iridium-Flare zu sehen.</p>
+ 								<p>Sternstrichspuraufnahme aus Kroatien, aufgenommen im Sommer 2015, rechts ist ein 
+ 								<a href="https://de.wikipedia.org/wiki/Iridium-Flare" target="_blank">Iridium-Flare</a> (Sonnenlichtreflexion durch Kommunikationssatelliten) zu sehen.</p>
 								<a href="/images/fotografie/starlapse/startrails-kroatien-sternschnuppenförmig.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
    								<img class="img-full" src="/images/fotografie/starlapse/startrails-kroatien-sternschnuppenförmig-small.png" alt="alternative Erklärung">
  								</a>

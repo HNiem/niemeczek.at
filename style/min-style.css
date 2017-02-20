@@ -49,7 +49,7 @@ a:active {
 h1 {
 	color: rgb(228,228,226);
 	font-size: 26px;
-		display: block;
+	display: block;
 	width: 100%;
 	border-bottom: 1px solid rgb(228,228,226);
 	margin-bottom: 10px;
@@ -78,6 +78,106 @@ h5 {
 h6 {
 	color: rgb(228,228,226);
 	font-size: 11px;
+}
+.preview {
+	display: block;
+	width: 100%;
+	float: left;
+}
+.preview a p {
+	font-weight: normal;	
+}
+.preview a .preview-more {
+	color: rgb(116,229,9);
+}
+.preview a {
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	border-bottom: 1px solid rgba(228,228,226,0.5);
+	padding: 19px 10px 20px 10px;
+	color: rgb(228,228,226);
+	font-size: 17px; 
+	float: left;
+}
+.preview a:hover {
+
+	background-color: rgba(228,228,226,0.04);
+}
+.preview a:hover h2 {
+	color: rgba(116,229,9,0.9);/*rgb(54,107,4);*/
+
+}
+.preview h2 {
+	color: inherit;
+	font-size: 27px;
+	display: block;
+	width: 100%;
+	border-bottom: none;
+	margin-bottom: 3px;
+}
+.preview p {
+	color: inherit;
+}
+.preview div {
+	float: left;
+}
+.preview .preview-img {
+	height: 100%;
+	width: 100px;
+}
+.preview .preview-img img{
+	max-height: 100%;
+	max-width: 100%;
+	
+	margin: 0 auto;
+}
+.preview .preview-text {
+	width: calc(100% - 100px);
+	padding-left: 20px;
+}
+@media only screen and (max-width:450px) {
+	.preview .preview-img {
+		width: 100%;	
+	}
+	.preview .preview-text {
+		width: 100%;
+		margin-top: 16px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+}
+
+.preview-bi {
+	border-bottom: 1px solid rgba(228,228,226,0.5);
+	display: block;
+	margin-bottom: 40px;
+	float: left;
+	position: relative;
+	height: auto;
+}
+.preview-bi a {
+	border-bottom-width: 0px;
+	padding-bottom: 50px;
+	height: 100%;
+	float: left;
+}
+.preview-bi .preview-inner {
+	width: 50%;
+	float: left;
+		height: 100%;
+		position: relative;
+		
+}
+@media only screen and (max-width:450px) {
+	.preview-bi .preview-inner {
+		width: 100%;
+	}
+}
+.height-10px {
+	float: left;
+	width: 100%;
+	height: 10px;
 }
 #haupt_spalte ul {
 	color: rgb(228,228,226);

@@ -34,7 +34,9 @@
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 							<h1>Privatspäre</h1>
-							<p><br /><br /></p>
+							<p><br /><br />
+							Sieh Dir Inhalte der Spalte links an. Diese Seite habe ich leider noch nicht verfasst! :(
+							</p>
 							
 
 
