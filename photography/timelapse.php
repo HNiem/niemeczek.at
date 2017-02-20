@@ -34,8 +34,8 @@
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 							<h1>Zeitraffer/Timelapse</h1>
+							<img src="/images/fotografie/timelapse/zeitraffer-titelbild.jpg" alt="" width="1px" height="1px" style="float: left;" />
 							<p>
-								
 								Bei der Aufnahme von Zeitraffern werden im Abstand von wenigen Sekunden (je nach Motiv bzw. Geschwindigkeit der Wolken 3-15s) Bilder aufgenommen, die dann durch eine Software zu einem Film verarbeitet werden.
 								<br /><br />
 								Die Aufnahme von Zeitraffervideos stellt hohe Anforderungen an den Fotografen, da nicht nur die aktuelle Situation für den Bildaufbau von Bedeutung ist, sondern auch das Aussehen des Motivs im weiteren Verlauf der Aufnahme von Bedeutung ist.

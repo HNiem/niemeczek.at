@@ -64,10 +64,10 @@
 										<div class="preview-text">
 											<h2>Bouquets and Floral Arrangements</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-												sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-												magna aliquyam erat, sed diam voluptua. At vero eos et 
-												accusam et justo duo dolores et ea rebum.
+												At my former school (College for Horticulture and Landscape Design) we had a subject where we learned how to make bouquets and floral arrangements. 
+												<br />
+												<br />
+												In that year we also had a bouquet-contest, with the winners bouquet the ...
 											</p>
 											<p class="preview-more">
 												more...
