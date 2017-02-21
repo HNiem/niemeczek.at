@@ -42,6 +42,8 @@
 							</p>
 							<p>
 								<a href="https://twitter.com/HNieme" target="_blank">Twitter</a> (rarely visited!)
+								<br />
+								<a href="https://github.com/HNiem" target="_blank">Github</a>
 								<br /><br /><br />
 								
 							</p>	
