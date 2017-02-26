@@ -32,14 +32,22 @@
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 
-							<h1>GnuPG</h1>
-							<h4>(stands for <i><b>G</b>nu <b>P</b>rivacy <b>G</b>uard</i>, also GPG, or PGP, which stands for <i><b>P</b>retty <b>G</b>ood <b>P</b>rivacy)</i></h4>
+							<h1>Key signatures</h1>
+							
 							<p>
-								<br /><br />
-								<a href="/blog/privacy/GnuPG/">What is PGP (an explanation, German)</a>
-								<br /><br />
-								<a href="policy.php">PGP Key Policy</a>
+								Every Key-signature I make with my <i>Offline long term identity key</i> will be published here. 
+								Please <a href="/contact.php">contact</a> me if you find a signature, that is not published here. 
+								This may just mean that I forgot to post it here or that my key has been compromised.
+								<br /><br /><br />
 							</p>
+							<hr>
+							<p>
+							<br />
+							Schlüsselkennung 01CDC555<br />
+							Schlüsselkennung BD4FC89F<br />
+							identity-proof by passport and drivers's license at 17.01.2017.<br /><br />
+							</p>
+							<hr>
 
 
 

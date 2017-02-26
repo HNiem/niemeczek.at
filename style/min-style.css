@@ -219,6 +219,36 @@ blockquote cite a:active {
 	font-style: italic;
 	color: rgb(78,154,6);
 }
+.greyquote {
+	border-left: 5px solid #757575;
+}
+code {
+	background-color: #e0e0e0;
+	color: #757575;
+	font-family: monospace;	
+	font-size: 13px;
+	font-weight: 100;
+	padding: 2px 6px 2px 6px;
+	overflow: auto;
+	max-width: 100%;
+	max-height: 200px;
+	white-space: nowrap;  /*keine Zeilenumbrüche, stattdessen scrollen*/
+}
+code.codeblock {
+	border-left: 5px solid #757575;
+	margin:20px 30px 20px 0px;
+	background-color: #3B3B3B;
+	color: #e0e0e0;
+	font-family: monospace;	
+	padding: 10px 10px 10px 15px;
+	display: block;
+	font-size: 15px;
+	font-weight: 100;
+	overflow: auto;
+	max-width: 100%;
+	max-height: 200px;
+	white-space: nowrap;  /*keine Zeilenumbrüche, stattdessen scrollen*/
+}
 .blue {
 	color: rgb(33,93,156); 
 }

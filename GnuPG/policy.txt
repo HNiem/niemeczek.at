@@ -1,0 +1,99 @@
+Date: 2017-02-23
+
+GnuPG-Key-Policy
+
+
+You can change the end of this URL from .php to .txt to view a signed plaintext copy of this policy. 
+
+This is my policy statement for the following PGP keys: 
+Offline long term identity key:
+
+pub  4096R/8B2E508B 2017-01-22 [verfällt: 2018-01-22]
+uid        Harald Niemeczek (offline long-term identity key)
+uid        Harald Niemeczek
+
+
+Key for everyday use:
+
+pub  4096R/68A0EF1D 2016-10-12
+uid        Harald Niemeczek <h****d@niemeczek.at>
+uid        Harald Niemeczek (*******) <e*******@student.tuwien.ac.at>
+uid        Harald Niemeczek <deb_mailinglist@niemeczek.at>
+uid        Harald Niemeczek <support@debianadmin.net>
+uid        Harald Niemeczek <d******a@niemeczek.at>
+uid        Harald Niemeczek <******.*****@gmail.com>
+uid        Harald Niemeczek (Jabber-Account) <h***m@jabber.at>
+uid        [jpeg image of size 47390]
+uid        Harald Niemeczek <******.*********@tuwien.ac.at>
+uid        Harald Niemeczek <p********r@niemeczek.at>
+uid        Harald Niemeczek <*****@niemeczek.at>
+uid        Harald Niemeczek <a***e@niemeczek.at>
+uid        Harald Niemeczek <s******y@niemeczek.at>
+uid        Harald Niemeczek <h********r@niemeczek.at>
+uid        Harald Niemeczek <w*******r@niemeczek.at>
+uid        Harald Niemeczek <i**o@niemeczek.at>
+uid        Harald Niemeczek <o****e@niemeczek.at>
+uid        Harald Niemeczek <k*****t@niemeczek.at>
+sub  4096R/06EC4A8C 2016-10-12 [verfällt: 2017-10-12]
+sub  4096R/0B9D6722 2016-10-12 [verfällt: 2017-10-12]
+sub  4096R/94723897 2016-10-12
+Some Mail-Adresseses are hidden for privacy and spam-protection reasons. 
+
+Key security policy
+My offline long term identity key is an offline key, stored only on a USB-Stick kept encrypted and password protected at a secret place. There is an encrypted backup that is kept at a secure place, too. The passphrase on the key consists of more than ten random characters chosen from among the 96 printable ASCII characters. 
+
+When I need to use this key, I boot a Tails live system that is only used for handling pgp keys on a PC with no network connection. Tails uses an encrypted storage, where the keys are loaded from. Any data that needs to be signed or worked with is stored on my PCs hard drive accessed via Tails. The offline long term identity key will be used to:
+Sign my key for everyday use
+Sign other peoples keys
+The offline long term identity key does not expire. I will revoke it if I have a specific reason to believe that it has been compromised. 
+
+My key for everyday use is seperated in the primary key and two sub-keys.
+The primary key was kept at my PC for a long time and is now kept with the offline long term identity key. 
+The subkeys are used for everyday encryption and stored at my PC and my mobile phone as well as a few encrypted backups. 
+I also have a tails system with the keys available in the encrypted storage in case I need to work on a PC that is not my own. 
+
+The subkeys expire every year, the primary key expires every five years. 
+I will revoke them in the event that a non-encrypted key is lost, stolen, if any vulnerability is discovered that could allow a host device to extract keys from it, if I discover a forged or unauthorized signature or if the key has become insecure in another way. 
+
+Certification policy
+Certifying signatures from my offline long term identity key carry the following semantics: 
+
+Signature type 0x13 (positive certification):
+
+  - I have a significant personal or professional relationship with this person.
+  - I have checked this person’s government-issued identification. (Not required for people I have a very close relationship with, for instance my family)
+  - This person has provided me with his/her key fingerprint in person.
+
+
+Signature type 0x12 (casual certification): 
+
+Either:
+   I have checked this person’s government-issued identification.
+   This person has provided me with his/her key fingerprint in person.
+
+-or-: 
+
+   This person would otherwise qualify for positive certification, but I have done something slightly ad-hoc to verify his/her fingerprint, 
+   such as receiving it over an OTR chat session after previously having verified his/her OTR fingerprint in person. 
+
+
+Signature type 0x11 (persona certification):
+
+   I have never used this certification type, but may use it to certify a key belonging to someone with a widely-recognized pseudonym. 
+   Such a signature would assert my belief that the person who controls that key is the same person whose past work is published under that pseudonym, 
+   but would not assert anything in particular about how I justify that belief. 
+
+
+Signature type 0x10 (generic certification): 
+   I do not use this signature type. 
+
+
+
+Signing policy
+   My signature on a message asserts my authorship of that message. It can also contain content that I did not (entirely) make myself, for instance forwarded E-Mails. 
+   The absence of my signature implies nothing; I sometimes send unsigned messages. 
+
+
+This Key signing policy is based on https://www.dfranke.us/pgp-key-policy.html (©2014 Daniel Fox Franke), which is licensed under Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/. 
+
+This Key signing policy is also licensed under Creative Commons Attribution 4.0 International License, with exception of the upper code-blocks containing my key-data. 
