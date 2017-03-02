@@ -111,8 +111,8 @@
 								entstanden. Ich habe am 2017-12-27 ein Mail an beide Unternehmen gesendet. Eine Antwort kam nur von mailbox.org, diese baten um einige Ergänzungen, die ich durchgeführt habe. 
 								<br />
 								<br />
-								[1] Diese Aussage ist Ergebnis einer <a href="https://posteo.de/site/faq#eigenedomains" target="_blank">Recherche</a> bei Posteo. Mailbox.org wies 
-								mich in einer Mail darauf hin, dass dies falsch ist und beschreibt dies auch in den eigenen 
+								[1] Die sogenannten Whois-Informationen, die für gewöhnlich eine Menge über den Domaininhaber verraten, lassen sich jedoch auch verbergen. 
+								Mailbox.org beschreibt dies auch in den eigenen 
 								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen" target="_blank">FAQ</a>.
 							</p>
 
