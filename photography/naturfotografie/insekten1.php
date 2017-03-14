@@ -42,7 +42,7 @@
 								<div class="imagedatabox"> <!-- Grashalm mit Wassertropfen -->
 									<div class="imagedatabox-image">
 										<a href="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel1.jpg" data-lightbox="bild-2" data-title="Schmetterling sitzt auf Lavendelblüte, Querformat">
-   										<img class="img-full" src="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel1-small.jpg" alt="Gras mit Tautropfen, Desktophintergrund">
+   										<img class="img-full" src="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel1-small.jpg" alt="Schmetterling sitzt auf Lavendelblüte, Querformat">
  										</a>
 									</div>
 									<div class="imagedatabox-description">	
@@ -62,8 +62,8 @@
 								</div>
 								<div class="imagedatabox"> <!-- Wiese im Morgenlicht -->
 									<div class="imagedatabox-image">
-										<a href="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel2.jpg" data-lightbox="bild-2" data-title="Gras mit Tautropfen, Desktophintergrund">
-   										<img class="img-full" src="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel2-small.jpg" alt="Gras mit Tautropfen, Desktophintergrund">
+										<a href="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel2.jpg" data-lightbox="bild-2" data-title="Schmetterling sitzt auf Lavendelblüte, Hochformat">
+   										<img class="img-full" src="/images/fotografie/naturfotografie/insekten/SchmetterlingaufLavendel2-small.jpg" alt="Schmetterling sitzt auf Lavendelblüte, Hochformat">
  										</a>
 									</div>
 									<div class="imagedatabox-description">	
@@ -83,8 +83,8 @@
 								</div>
 								<div class="imagedatabox"> <!-- Allium -->
 									<div class="imagedatabox-image">
-										<a href="/images/fotografie/naturfotografie/insekten/HummelaufLavendel1.jpg" data-lightbox="bild-2" data-title="Gras mit Tautropfen, Desktophintergrund">
-   										<img class="img-full" src="/images/fotografie/naturfotografie/insekten/HummelaufLavendel1-small.jpg" alt="Gras mit Tautropfen, Desktophintergrund">
+										<a href="/images/fotografie/naturfotografie/insekten/HummelaufLavendel1.jpg" data-lightbox="bild-2" data-title="Hummel sitzt auf Lavendelblüte, Querformat">
+   										<img class="img-full" src="/images/fotografie/naturfotografie/insekten/HummelaufLavendel1-small.jpg" alt="Hummel sitzt auf Lavendelblüte, Querformat">
  										</a>
 									</div>
 									<div class="imagedatabox-description">	
