@@ -54,7 +54,23 @@
 											</p>
 										</div>
 									</a>
-								</section>
+							</section>
+							<section class="preview">
+									<a href="/photography/naturfotografie/insekten1.php">
+										<div class="preview-img">
+											<img src="/images/fotografie/naturfotografie/insekten/preview.jpg" alt="Schmetterling auf Lavendelblüte" />
+										</div>
+										<div class="preview-text">
+											<h2>Insekten 1</h2>
+											<p>
+												Insekten, die auf Blüten sitzen
+											</p>
+											<p class="preview-more">
+												mehr...
+											</p>
+										</div>
+									</a>
+							</section>
 								<div class="height-10px"></div>
 								<div class="height-10px"></div>
 								<div class="height-10px"></div>

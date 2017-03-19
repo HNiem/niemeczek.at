@@ -75,7 +75,7 @@
 										</div>
 									</a>
 								</section>
-																<section class="preview">
+					<!--		<section class="preview">
 									<a href="/photography/malenmitlicht/zoombilder.php">
 										<div class="preview-img">
 											<img src="/images/fotografie/malenmitlicht/zoombilder/Vorschau-3.JPG" alt="Gras mit Tautropfen" />
@@ -90,7 +90,7 @@
 											</p>
 										</div>
 									</a>
-								</section>
+								</section> -->
 								<div class="height-10px"></div>
 								<div class="height-10px"></div>
 								<div class="height-10px"></div>

@@ -69,6 +69,22 @@
 								</a>
 							</section>
 							<section class="preview">
+									<a href="/photography/naturfotografie/insekten1.php">
+										<div class="preview-img">
+											<img src="/images/fotografie/naturfotografie/insekten/preview.jpg" alt="Schmetterling auf Lavendelblüte" />
+										</div>
+										<div class="preview-text">
+											<h2>Insekten 1</h2>
+											<p>
+												Insekten, die auf Blüten sitzen
+											</p>
+											<p class="preview-more">
+												mehr...
+											</p>
+										</div>
+									</a>
+							</section>
+							<section class="preview">
 								<a href="/photography/starlapse.php">
 
 									<div class="preview-img">
@@ -86,24 +102,24 @@
 								</div>
 								</a>
 							</section>
-								<section class="preview">
-									<a href="/blog/privacy/GnuPG/">
-										<div class="preview-img">
-											<img src="/images/blog/privacy/GnuPG/logo-gnupg-light-purple-bg-half-transparent-shade1.png" alt="Logo von GnuPG" />
-										</div>
-										<div class="preview-text">
-											<h2>Verschlüssle Deine E-Mails</h2>
-											<p>
-												Oftmals gehen E-Mails unverschlüsselt um die ganze Welt, und können dabei von Geheimdiensten gelesen werden. Auch Dein E-Mail-Provider kann mitlesen.
-										
-												Wie Du Dich dagegen schützen kannst zeige ich hier. 
-											</p>
-											<p class="preview-more">
-												mehr...
-											</p>
-										</div>
-									</a>
-								</section>
+							<section class="preview">
+								<a href="/blog/privacy/GnuPG/">
+									<div class="preview-img">
+										<img src="/images/blog/privacy/GnuPG/logo-gnupg-light-purple-bg-half-transparent-shade1.png" alt="Logo von GnuPG" />
+									</div>
+									<div class="preview-text">
+										<h2>Verschlüssle Deine E-Mails</h2>
+										<p>
+											Oftmals gehen E-Mails unverschlüsselt um die ganze Welt, und können dabei von Geheimdiensten gelesen werden. Auch Dein E-Mail-Provider kann mitlesen.
+									
+											Wie Du Dich dagegen schützen kannst zeige ich hier. 
+										</p>
+										<p class="preview-more">
+											mehr...
+										</p>
+									</div>
+								</a>
+							</section>
 							<div class="height-10px"></div>
 							<div class="height-10px"></div>
 							<div class="height-10px"></div>
