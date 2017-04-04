@@ -29,7 +29,25 @@
 						
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
-						<div class="databox contentbox">
+
+							<section class="preview">
+								<a href="/photography/timelapse/pflanzentimelapse1.php">
+
+									<div class="preview-img">
+										<img src="/images/fotografie/timelapse/Pflanzentimelapse1-icon.jpg" alt="Floral arrangement" />
+									</div>
+									<div class="preview-text">
+									<h2>Zeitraffer keimender Pflanzen</h2>
+									<p>
+										In diesem Video ist die Keimung diverser Samen zu sehen.
+									</p>
+									<p class="preview-more">
+										mehr...
+									</p>
+								</div>
+								</a>
+							</section>
+						
 							<section class="preview">
 								<a href="/blog/horticulture/blumenstraeusse.php">
 									<div class="preview-img">
