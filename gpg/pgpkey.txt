@@ -1,0 +1,4 @@
+Diese Datei erhebt Anspruch auf den Besitz des OpenPGP-Schlüssels mit der langen ID 0xfd279ad768a0ef1d.
+
+Token des Nachweises:
+[Verifying my OpenPGP key: openpgp4fpr:925849e84b615c76235ade49fd279ad768a0ef1d]
