@@ -61,8 +61,8 @@
 								<br /><br />
 								<b>Keysigning Key</b>
 								<br />
-								<a href="/GnuPG/GPG_PUBLIC_KEY_FILENAME.asc">SCHLÜSSELKENNUNG</a>  -  
-								Fingerprint: 000 000 000 000 000 000
+								<a href="/GnuPG/Harald Niemeczek (offline long-term identity key) (0x8B2E508B) pub.asc">SCHLÜSSELKENNUNG</a>  -  
+								Fingerprint: 5A64 3A84 3226 9551 F76A 6A9B D059 3ABB 8B2E 508B
 								<br /><br />
 								This is an offline key, only used to sign (my) other keys and as my connection to the web of trust. This key can be considered to have a high level of security.
 								

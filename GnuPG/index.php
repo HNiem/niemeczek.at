@@ -39,6 +39,8 @@
 								<a href="/blog/privacy/GnuPG/">What is PGP (an explanation, German)</a>
 								<br /><br />
 								<a href="policy.php">PGP Key Policy</a>
+								<br /><br />
+								<a href="/contact.php">List of my Keys + contact information</a>
 							</p>
 
 
