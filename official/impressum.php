@@ -27,7 +27,7 @@
 							<p>
 								Wien, Österreich / Vienna, Austria<br />
 								Telefon/Phone: <a href="tel:+4367761208583">+4367761208583</a><br />
-								E-Mail: <a href="mailto:postmaster@niemeczek.at?subject=Request%20on%20niemeczek.at%20(Imprint)%20(Don!%20Change!)">postmaster@niemeczek.at</a><br />
+								E-Mail: <a href="mailto:postmaster@niemeczek.at?subject=Request%20on%20niemeczek.at%20(Imprint)%20(Don't%20Change!)">postmaster@niemeczek.at</a><br />
 								Kontaktaufnahme via E-Mail wird bevorzugt, eine Verschlüsselung via <a href="/blog/gpg/">GPG</a> ist erwünscht. <br />
 								I prefer to be contacted via E-Mail, encryption with <a href="/blog/gpg/">GPG</a> is desired.
 								

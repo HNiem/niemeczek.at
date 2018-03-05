@@ -23,10 +23,14 @@
 				<div id="content_area">
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
-								<p>SORRY! UNDER CONSTRUCTION!
+								<p>
+									Darkness cannot drive out darkness; only light can do that. 
+									<br \>
+									Hate cannot drive out hate; only love can do that.
+									<br \>
+									<small>MARTIN LUTHER KING, JR.</small>
 								</p>
-					</div>
-						
+						</div>
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 
