@@ -24,7 +24,7 @@
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
 
-							<p>SORRY! UNDER CONSTRUCTION!</p>
+							<p>Ein Kaktus ist nichts anderes als eine schwer bewaffnete Gurke.</p>
 
 						</div>
 						

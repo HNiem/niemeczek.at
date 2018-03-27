@@ -42,11 +42,7 @@
 							<br /><br />
 								At this website you can find a lot of stuff around the topics privacy, photograpy and environmental protection. 
 							</p>
-							<p>
-								<br />
-								My brother is a professional triathlete, you can find his website <a target="_blank" href="https://www.sport-oesterreich.at/roland-niemeczek">here</a>.
 							
-							</p>
 						
 								
 						</div>

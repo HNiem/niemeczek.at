@@ -25,10 +25,10 @@
 						<div class="databox newsbox">
 								<p>
 									Darkness cannot drive out darkness; only light can do that. 
-									<br \>
+									<br \><br \>
 									Hate cannot drive out hate; only love can do that.
 									<br \>
-									<small>MARTIN LUTHER KING, JR.</small>
+									<span style="font-size: 0.89em">Martin Luther King, Jr.</span>
 								</p>
 						</div>
 					</div>	
