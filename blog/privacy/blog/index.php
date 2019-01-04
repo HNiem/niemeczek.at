@@ -33,18 +33,14 @@
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>Ich weiß, wo Dein Haus wohnt</h1>
-							<p><br /><br />
-							https://owncloud.org/providers/
+							<h1>Diverses zum Thema Privatspäre und Internet-Sicherheit</h1>
+							<p>
+								<br /><br />
 							
-							
-					<!--		https://owncube.com/index-de.php 
-								https://www.netzwelt.de/news/141431-snowden-dropbox-gefaehrlich-privatsphaere.html
-					
-					
-					
-					
-					-->
+								<?php 
+									include '003_preview_Passwörter_und_Passwortmanager.php'; 
+									include '002_preview_Erpresser-E-Mails.php'; 
+								?>
 							
 							</p>
 

@@ -31,7 +31,7 @@
 						</div>
 						
 					</div>	
-					<div id="haupt_spalte"> <!-- haupt Spalte -->	
+					<div id="haupt_spalte"> <!-- haupt Spalte -->
 						<div class="databox contentbox">
 							<h1>Whatsapp-Alternativen</h1>
 							<p><br /><br />

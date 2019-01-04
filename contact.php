@@ -84,7 +84,7 @@
 								<br /><br />
 								<b><a target="_blank" href="https://www.heise.de/security/artikel/OMEMO-fuer-Jabber-eine-Einordnung-3603601.html" >OMEMO</a>-Fingerprint:</b> 
 								<br />
-								1f020ede bd39131d f09c6cd3 f0d34e22 4be5a328 26ee0afd 72b3a0b2 21e5811a
+								d6e3efb6 11f2203c 3543f765 9a3ccfe3 e03ed899 41f69dfb a1c2679d 3d02f217
 								<br />
 								(for <a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>)
 								<br /><br />

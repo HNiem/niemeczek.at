@@ -38,7 +38,7 @@
 								<a href="/photography/timelapse/pflanzentimelapse1.php">
 
 									<div class="preview-img">
-										<img src="/images/fotografie/timelapse/Pflanzentimelapse1-icon.jpg" alt="Floral arrangement" />
+										<img src="/images/fotografie/timelapse/Pflanzentimelapse1-icon.jpg" alt="germinating beans" />
 									</div>
 									<div class="preview-text">
 									<h2>Zeitraffer keimender Pflanzen</h2>
@@ -75,7 +75,7 @@
 								<a href="/photography/timelapse.php">
 
 									<div class="preview-img">
-										<img src="/images/fotografie/timelapse/zeitraffer-icon.jpg" alt="Floral arrangement" />
+										<img src="/images/fotografie/timelapse/zeitraffer-icon.jpg" alt="Landscape with clouds, trees and a rock in the center of the image" />
 									</div>
 									<div class="preview-text">
 									<h2>Zeitraffer</h2>
@@ -110,7 +110,7 @@
 								<a href="/photography/starlapse.php">
 
 									<div class="preview-img">
-										<img src="/images/fotografie/starlapse/startrails-icon.png" alt="Floral arrangement" />
+										<img src="/images/fotografie/starlapse/startrails-icon.png" alt="Startrail-Bild" />
 									</div>
 									<div class="preview-text">
 									<h2>Startrails</h2>

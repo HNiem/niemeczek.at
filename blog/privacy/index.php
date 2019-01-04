@@ -35,7 +35,10 @@
 						<div class="databox contentbox">
 							<h1>Privatspäre</h1>
 							<p><br /><br />
-							Sieh Dir Inhalte der Spalte links an. Diese Seite habe ich leider noch nicht verfasst! :(
+								<?php 
+									include 'blog/003_preview_Passwörter_und_Passwortmanager.php'; 
+									include 'blog/002_preview_Erpresser-E-Mails.php'; 
+								?>
 							</p>
 							
 

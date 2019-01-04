@@ -40,7 +40,7 @@
 								<a target="_blank" href="https://www.tuwien.ac.at/EN/">TU Wien</a>, after	I completed the final exams at <a target="_blank" href="http://www.gartenbau.at/">
 								College for Horticulture and Landscape Design</a> in summer 2016. I live in Vienna. 
 							<br /><br />
-								At this website you can find a lot of stuff around the topics privacy, photograpy and environmental protection. 
+								At this website you can find a lot of stuff around the topics privacy, photograpy and horticulture. 
 							</p>
 							
 						
