@@ -76,10 +76,10 @@
 									
 									<br />
 									<br />
-									Daher sollten diese E-Mails einfach gelöscht werden und keinesfalls irgendwelche Zahlungen geleistet werden. Anhänge sollten keinesfalls geöffnet werden, auch wenn sich darin angeblich die belastenden Videos finden - Sie enthalten vermutlich Schadsoftware (Viren, Trojaner, ...). 
+									Daher sollten diese E-Mails einfach gelöscht werden und keinesfalls irgendwelche Zahlungen geleistet werden. Anhänge sollten keinesfalls geöffnet werden*, auch wenn sich darin angeblich die belastenden Videos finden - Sie enthalten vermutlich Schadsoftware (Viren, Trojaner, ...). 
 									<br />
 									<br />
-									Falls weiterhin Unsicherheit besteht gibt hilft es oftmals, den Text (oder markante Textstellen) der E-Mail zu googlen. Falls weitere Fragen bestehen gibt es die <a href="https://bundeskriminalamt.at/602/start.aspx">Meldestelle für Internetkriminalität</a>. Außerdem stehe ich bei Fragen <a href="/contact.php">gerne zur Verfügung.</a> (Aber bitte nicht die Spam-E-Mails direkt weiterleiten!) 
+									Falls weiterhin Unsicherheit besteht hilft es oftmals, den Text (oder markante Textstellen) der E-Mail zu googlen. Falls weitere Fragen bestehen gibt es die <a href="https://bundeskriminalamt.at/602/start.aspx">Meldestelle für Internetkriminalität</a>. Außerdem stehe ich bei Fragen <a href="/contact.php">gerne zur Verfügung.</a> (Aber bitte nicht die Spam-E-Mails direkt weiterleiten!) 
 									<br />
 									<br />
 									Weitere Infos siehe auch:
@@ -87,6 +87,12 @@
 									<a href="https://www.youtube.com/watch?v=1JDCbq9Uq5o">YouTube: I know your password! It's...</a>
 									<br />
 									<a href="https://www.youtube.com/watch?v=ulrWRsmfMko">YouTube: Scaremails auf dem Vormarsch</a>
+									<br />
+									<br />
+									<br />
+									<br />
+									<br />
+									* Außer wenn eine virtuelle Maschine verwendet wird, dafür gibt es zahlreiche Tutorials im Netz. So lässt sich eine Infektion des eigenen Rechners vermeiden.
 									<br />
 									<br />
 									<br />
