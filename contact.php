@@ -36,7 +36,7 @@
 								You can contact me via:
 								<ul>
 									<li>
-										E-Mail: <a href="mailto:postmaster@niemeczek.at?subject=Request%20on%20niemeczek.at%20(Contact)%20(Don!%20Change!)">postmaster@niemeczek.at</a> (Encryption via <a href="/blog/gpg/">GPG</a> is desired.)
+										E-Mail: <a href="mailto:postmaster@niemeczek.at?subject=Request%20on%20niemeczek.at%20(Contact)%20(Don!%20Change!)">postmaster@niemeczek.at</a> (Encryption via <a href="/GnuPG/">GPG</a> is desired.)
 									</li>
 									<li>
 										XMPP/Jabber: <a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>, see below for OMEMO-Key
