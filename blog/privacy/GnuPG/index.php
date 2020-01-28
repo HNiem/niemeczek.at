@@ -64,8 +64,7 @@
 								<br />
 								Ein zweiter wichtiger Punkt ist, dass die Absender von E-Mails ziemlich einfach gefälscht werden können. Im Prinzip kann jeder 
 								ein Mail mit einer beliebigen Absenderadresse* versenden. Das macht es Kriminellen sehr leicht - Einem Link in einer E-Mail 
-								eines guten Freundes wird man ja nicht misstrauen! <a href="/blog/privacy/blog/002_JavaScriptUndViren.php">Mit Viren verseuchte 
-								Seiten können Deinen Computer infizieren!</a>
+								eines guten Freundes wird man ja nicht misstrauen!
 								<br /><br /><br /><br />
 							</p>
 							<h3>Grundlagen PGP</h3>
