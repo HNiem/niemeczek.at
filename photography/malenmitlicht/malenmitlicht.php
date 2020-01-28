@@ -39,7 +39,7 @@
 							<div class="height-10px"></div>
 							<div class="height-10px"></div>
 
-							<section class="preview">
+						<!--	<section class="preview">
 									<a href="/photography/malenmitlicht/lightpainting.php">
 										<div class="preview-img">
 											<img src="/images/fotografie/naturfotografie/blumenundgr%C3%A4ser/grashalm-mit-wassertropfen-small.jpg" alt="Gras mit Tautropfen" />
@@ -55,7 +55,7 @@
 											</p>
 										</div>
 									</a>
-								</section>
+								</section> -->
 								
 								
 								
