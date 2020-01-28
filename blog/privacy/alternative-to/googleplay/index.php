@@ -93,7 +93,7 @@
 									ein mit OwnCloud synchronisierbarer Aufgabenmanager
 								</li>
 								<li>
-									<a href="https://f-droid.org/repository/browse/?fdfilter=osmand&fdid=net.osmand.plus" target="_blank">OsmAnd~</a>, eine <a href="/blog/privacy/alternative-to/GoogleMaps/">Alternative zu Google Maps
+									<a href="https://f-droid.org/repository/browse/?fdfilter=osmand&fdid=net.osmand.plus" target="_blank">OsmAnd~</a>, eine Alternative zu Google Maps
 								</li>
 							
 							</ul>
