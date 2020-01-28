@@ -113,7 +113,7 @@
 								<br />
 								[1] Die sogenannten Whois-Informationen, die für gewöhnlich eine Menge über den Domaininhaber verraten, lassen sich jedoch auch verbergen. 
 								Mailbox.org beschreibt dies auch in den eigenen 
-								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen" target="_blank">FAQ</a> .<br />
+								<a href="https://kb.mailbox.org/display/MBOKB/E-Mail-Adressen+der+eigenen+Domain+nutzen" target="_blank">FAQ</a> .<br />
 								Update 01/2020: Seit dem Inkrafttreten der DSGVO verbergen die WHOIS-Eintrage viele der Daten des Domaininhabers by default!
 							</p>
 

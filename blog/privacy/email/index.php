@@ -87,8 +87,8 @@
 								möglich. Das Anlegen eines Testaccounts für 30 Tage ist ebenfalls möglich (mit gewissen Einschränkungen).
 								<br /><br />
 								Zudem ist ein <a href="/blog/privacy/alternative-to/whatsapp/">XMPP-Server</a> für Kunden verfügbar. 
-								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
-								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
+								<a target="_blank" href="https://kb.mailbox.org/display/MBOKB/E-Mail-Adressen+der+eigenen+Domain+nutzen">Mailadressen der eigenen Domain</a> 
+								<a target="_blank" href="https://kb.mailbox.org/display/MBOKB/Jabber+mit+eigener+Domain+nutzen">(und XMPP)</a> können 
 								ebenfalls genutzt werden. Die Domain kann aber nicht über mailbox.org registriert werden, dies muss über einen externen Anbieter geschehen.
 								<br /><br />
 								Es ist möglich, seine PGP Schlüsseln hochzuladen, um damit online verschlüsseln zu können. Das sehe ich aber sehr kritisch, 
