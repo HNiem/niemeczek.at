@@ -37,7 +37,7 @@
 					<!--		<h2>consecteteur adipiscing elit fermentum</h2> -->
 							<p>
 								I am Harald Niemeczek, writer of this website. Currently I study Software & Information Engineering (Bachelor) at 
-								<a target="_blank" href="https://www.tuwien.ac.at/EN/">TU Wien</a>, after	I completed the final exams at <a target="_blank" href="http://www.gartenbau.at/">
+								<a target="_blank" href="https://www.tuwien.at/en/">TU Wien</a>, after	I completed the final exams at <a target="_blank" href="http://www.gartenbau.at/">
 								College for Horticulture and Landscape Design</a> in summer 2016. I live in Vienna. 
 							<br /><br />
 								At this website you can find a lot of stuff around the topics privacy, photograpy and horticulture. 
