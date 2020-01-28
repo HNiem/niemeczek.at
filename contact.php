@@ -53,7 +53,7 @@
 							<p>
 								
 								<br />
-								<a href="https://github.com/HNiem" target="_blank">Github</a>
+								<a href="https://github.com/HNieme/" target="_blank">Github</a>
 								<br /><br /><br />
 								
 							</p>	
