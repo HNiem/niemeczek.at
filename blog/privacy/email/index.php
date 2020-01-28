@@ -69,7 +69,7 @@
 								Posteo gibt an, vollkommen auf Datenhandel oder Datenweitergabe zu verzichten, verlangt nicht die Angabe persönlicher Daten und sogar 
 								eine anonyme Zahlung (Bargeld per Post) ist möglich.
 								Mails von einer eigenen Domain (das teil rechts vom @ in der Mailadresse) zu versenden ist leider nicht möglich, da dafür persönliche 
-								Daten erhoben werden müssten. Auch ein <a target="_blank" href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> ist derzeit noch nicht verfügbar.
+								Daten erhoben werden müssten. Auch ein <a target="_blank" href="/blog/privacy/alternative-to/whatsapp/">XMPP-Server</a> ist derzeit noch nicht verfügbar.
 								(Ist laut Anfrage an den Support im Herbst 2016 geplant und befindet sich derzeit in rechtlicher Prüfung). 
 								Einzelne Dienste (weitere Alias-Adressen, mehr Speicherplatz etc.) können zugebucht werden.
 								Weitere Informationen sind unter <a target="_blank" href="https://posteo.de/site/leistungen">Leistungen</a> einzusehen. 
@@ -86,7 +86,7 @@
 								ist per per Überweisung, Paypal, Bitcoin, Bargeldeinzahlung auf Girokonto oder Bargeld per Post möglich, die vollkommen anonyme Nutzung des Services ebenfalls 
 								möglich. Das Anlegen eines Testaccounts für 30 Tage ist ebenfalls möglich (mit gewissen Einschränkungen).
 								<br /><br />
-								Zudem ist ein <a href="/blog/privacy/whatsapp-alternativen/">XMPP-Server</a> für Kunden verfügbar. 
+								Zudem ist ein <a href="/blog/privacy/alternative-to/whatsapp/">XMPP-Server</a> für Kunden verfügbar. 
 								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
 								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
 								ebenfalls genutzt werden. Die Domain kann aber nicht über mailbox.org registriert werden, dies muss über einen externen Anbieter geschehen.

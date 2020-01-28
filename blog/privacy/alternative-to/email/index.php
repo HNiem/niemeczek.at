@@ -81,15 +81,15 @@
 								Auch <a target="_blank" href="https://mailbox.org/">Mailbox.org</a> bietet für einen Euro monatlich ein E-Mail Postfach mit 2GB Speicherplatz (erweiterbar) und 
 								drei Alias-Adressen, Posteingangsverschlüsselung, Zwei-Faktor-Authentifizierung, synchronisierbarem Adressbuch, synchronisierbarem Kalender, synchronisierbarem 
 								Aufgabenplaner und über den Browser zugreifbare Office-Programme mit 100 MB Dateispeicher. Die gesamten Sicherheitsfeatures sind 
-								<a target="_blank" href="https://mailbox.org/sicherheit-privacy-bei-mailbox-org/">hier</a> einsehbar.
+								<a target="_blank" href="https://mailbox.org/de/sicherheit">hier</a> einsehbar.
 								<br /><br />
 								Die Server und Büros werden mit 100% Ökostrom verschiedener Anbieter betrieben. Die Bezahlung verschiedener Pakete
 								ist per per Überweisung, Paypal, Bitcoin, Bargeldeinzahlung auf Girokonto oder Bargeld per Post möglich, die vollkommen anonyme Nutzung des Services ebenfalls 
 								möglich. Das Anlegen eines Testaccounts für 30 Tage ist ebenfalls möglich (mit gewissen Einschränkungen).
 								<br /><br />
 								Zudem ist ein <a target="_blank" href="/blog/privacy/alternative-to/whatsapp/xmpp.php">XMPP-Server</a> für Kunden verfügbar. 
-								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen">Mailadressen der eigenen Domain</a> 
-								<a target="_blank" href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
+								<a target="_blank" href="https://kb.mailbox.org/display/MBOKB/E-Mail-Adressen+der+eigenen+Domain+nutzen">Mailadressen der eigenen Domain</a> 
+								<a target="_blank" href="https://kb.mailbox.org/display/MBOKB/Jabber+mit+eigener+Domain+nutzen">(und XMPP)</a> können 
 								ebenfalls genutzt werden. Die Domain kann aber nicht über mailbox.org registriert werden, dies muss über einen externen Anbieter geschehen.
 								<br /><br />
 								Es ist möglich, seine PGP Schlüsseln hochzuladen, um damit online verschlüsseln zu können. Das sehe ich aber sehr kritisch, 
@@ -113,7 +113,8 @@
 								<br />
 								[1] Die sogenannten Whois-Informationen, die für gewöhnlich eine Menge über den Domaininhaber verraten, lassen sich jedoch auch verbergen. 
 								Mailbox.org beschreibt dies auch in den eigenen 
-								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen" target="_blank">FAQ</a>.
+								<a href="https://support.mailbox.org/knowledge-base/article/e-mail-adressen-der-eigenen-domain-nutzen" target="_blank">FAQ</a> .<br />
+								Update 01/2020: Seit dem Inkrafttreten der DSGVO verbergen die WHOIS-Eintrage viele der Daten des Domaininhabers by default!
 							</p>
 
 

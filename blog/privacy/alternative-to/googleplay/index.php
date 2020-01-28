@@ -85,8 +85,8 @@
 									<a href="https://f-droid.org/repository/browse/?fdfilter=telegram&fdid=org.telegram.messenger" target="_blank">Telegram</a>, eine Messenger-App
 								</li>
 								<li>
-									<a href="https://f-droid.org/repository/browse/?fdid=org.torproject.android" target="_blank">Orbot</a>*, 
-									eine App, mit deren Hilfe viele andere Apps den Traffic durch Tor leiten können.
+									<a href="https://guardianproject.info/apps/orbot/" target="_blank">Orbot</a>*, 
+									eine App, mit deren Hilfe viele andere Apps den Traffic durch Tor leiten können (Via GuardianProject-Repository erhältlich)
 								</li>
 								<li>
 									<a href="https://f-droid.org/repository/browse/?fdfilter=openTasks&fdid=org.dmfs.tasks" target="_blank">OpenTasks</a>, 

@@ -42,7 +42,7 @@
 								<br /><br />
 								Um mit Jabber chatten zu können braucht man erst mal einen sogenannten Client. Für Android-Geräte eignet sich vor allem die App <a href="https://conversations.im/">Conversations</a>. 
 								Diese ist im PlayStore erhältlich (2,39€). Die kostenlose Alternative ist der <a target="_blank" href="https://f-droid.org">F-Droid Appstore</a>, über den freie Apps 
-								kostenlos erhältlich sind. <a href="/blog/privacy/android/index.php#F-DROID">Mehr Info zu F-Droid</a>
+								kostenlos erhältlich sind. <a href="/blog/privacy/alternative-to/googleplay/">Mehr Info zu F-Droid</a>
 								
 								Für sämtliche anderen Betriebssysteme sind ebenfalls Clients vorhanden. Empfehlungen sind <a target="_blank" href="https://jabber.at/clients/">hier gelistet</a>. 
 								<br /><br /><br /><br />

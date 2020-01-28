@@ -36,9 +36,9 @@
 						<div class="databox contentbox">
 							<h1>Thunderbird</h1>
 							<p><br /><br /></p>
-							<h3>Installation</h3>
+							<h3>Installation<br /><br /></h3>
 							<p>
-								Benutzer, die einen Rechner mit Linux benutzen können sich Thunderbird meist direkt aus den Paketquellen installieren, PGP ist meist vorinstalliert. 
+								Benutzer, die einen Rechner mit Linux benutzen können sich Thunderbird meist direkt aus den Paketquellen installieren, GPG ist meist vorinstalliert. 
 								Unter Debian tut es beispielsweise ein <code>apt-get install icedove</code>.
 								<br /><br />
 								<b>Windowsnutzer</b> können sich die Software von der Mozilla-Webseite (Herstellen von Thunderbird) <a href="https://www.mozilla.org/de/thunderbird/">herunterladen</a>
@@ -61,7 +61,7 @@
 								<br />
 								<br />
 							</p>	
-							<h3>Einrichtung von PGP</h3>
+							<h3>Einrichtung von GPG<br /><br /></h3>
 							<p>
 							Dafür muss Pgp4Win bereits eingerichtet sein!
 							<br /><br />
@@ -87,7 +87,7 @@
 								- Enigmail ist fertig eingerichtet, das Fenster kann geschlossen werden. In der Leiste ganz oben ist nun ein Reiter "Enigmail" zu sehen.
 								<br /><br />
 								
-							<h4>Ablaufdatum des Schlüssels ändern</h4>
+							<h4>Ablaufdatum des Schlüssels ändern<br /><br /></h4>
  							<p>
  								<a href="/images/blog/privacy/GnuPG/thunderbird-enigmail/1.png" data-lightbox="bild-1" data-title="Bildunterschrift">
    								<img class="img-full" src="/images/blog/privacy/GnuPG/thunderbird-enigmail/1.png" alt="alternative Erklärung">
@@ -100,7 +100,7 @@
  								</a>
  								<br /><br />
  							</p>
- 							<h4>Schlüssel sichern</h4>
+ 							<h4>Schlüssel sichern<br /><br /></h4>
  							<p>
  								Im selben "Schlüssel verwalten"-Fenster kann man den Schlüssel nach einem Klick mit der rechten Maustaste auf den entsprechenden Schlüssel "In (eine) Datei 
  								exportieren". Dort muss dann "Geheime Schlüssel exportieren" ausgewählt werden. Dann geht der Dateimanager auf und der Ort, an dem die Datei gespeichert 
@@ -112,7 +112,7 @@
  								Passwort gut merken (ggf ebenfalls aufschreiben)! Wenn das Passwort vergessen wurde, kann der Schlüssel nicht mehr benutzt werden!
  								<br /><br />
  							</p>
- 							<h4>Nachrichten standardmäßig unterschreiben</h4>
+ 							<h4>Nachrichten standardmäßig unterschreiben<br /><br /></h4>
  							<p>
  								Über den Reiter Extras die Konteneinstellungen aufrufen, danach in der Spalte links "OpenPGP-Sicherheit" auswählen und das Häkchen in 
  								"Nachrichten standardmäßig unterschreiben", "Unverschlüsselte Nachrichten unterschreiben" und "Verschlüsselte Nachrichten unterschreiben" setzen.
@@ -122,9 +122,9 @@
  								</a>
  								<br /><br /><br />
  							</p>
- 							<h4 id="SCHLÜSSELSERVER">Auf Schlüsselserver hochladen</h4>
+ 							<h4 id="SCHLÜSSELSERVER">Auf Schlüsselserver hochladen<br /><br /></h4>
 							<p>
-								Schlüsselserver dienen dem Austausch von PGP-Schlüssel. Um seinen eigenen Schlüssel zu verbreiten ist es sinnvoll, 
+								Schlüsselserver dienen dem Austausch von GPG-Schlüssel. Um seinen eigenen Schlüssel zu verbreiten ist es sinnvoll, 
 								diesen auf Schlüsselserver hochzuladen.
 								<br /><br />
 								Dazu über den Reiter Enigmail die Einstellungen aufrufen. 
@@ -155,25 +155,27 @@
 							<p>
 								Links oben auf "Verfassen" klicken, danach das E-Mail verfassen. Bedenke, dass der Betreff nicht verschlüsselt wird!
 								<br />
-								Wird das erste mal eine E-Mail an eine E-Mail-Adresse mit PGP verschlüsselt, muss manuell an der oberen Leiste das Symbol mit dem Schloss (verschlüsseln)
+								Wird das erste mal eine E-Mail an eine E-Mail-Adresse mit GPG verschlüsselt, muss manuell an der oberen Leiste das Symbol mit dem Schloss (verschlüsseln)
 								ausgewählt werden. Nach dem absenden meldet Enigmail, dass kein Schlüssel für die Mailadresse gefunden wurde. Unten kann man dann über
 								"Fehlende Schlüssel herunterladen" auf einem Schlüsselserver nach passenden Schlüssel suchen. Wurden passende Schlüssel gefunden, 
 								kann man diese auswählen und per Klick auf "OK" herunterladen. Häufig sind mehrere Schlüssel verfügbar, hier eignet sich meist der neueste.
 								<br />
 								Nun sollte Enigmail sich gemerkt haben, dass zukünftige Mails an diese Mailadresse stets mit dem ausgewählten Schlüssel verschlüsselt werden sollen.
+								<br /><br />
 							</p>
 							<h4>Unterschriebene E-Mails prüfen</h4>
  							<p>
+ 								<br /><br />
  								Öffnet man eine unterschriebene Mail zeigt Enigmail eine Leiste über der Mail an, in der steht "NICHT VERTRAUENSWÜRDIGE Korrekte Unterschrift von ..." an 
  								(Dauert beim ersten mal ein bisschen). Voraussetzung dafür ist, dass die Schlüssel des Unterschreibenden auf dem "pool.sks-keyservers.net" Keyserver hochgeladen
  								wurden. 
  								<br /><br /><br />
  							</p>
-							<h4>Verschlüsselte E-Mails lesen</h4>
+							<!--<h4>Verschlüsselte E-Mails lesen</h4>
 							<p>
 							
 								<br /><br /><br />
-							</p>
+							</p>-->
 							<h3>Web of Trust aufbauen<br /><br /></h3>	
 							<p>
 								Angenommen, Du möchtest eine verschlüsselte Mail an Alice schreiben. Alice wohnt auf der anderen Seite der Welt, Du kannst ihn nicht persönlich treffen,
@@ -184,7 +186,7 @@
 								<br /><br />
 								
 							</p>
-							<h4>Schlüssel unterschreiben (Key signing)</h4>
+							<h4>Schlüssel unterschreiben (Key signing)<br /><br /></h4>
 							<p>
 								Um fremde Schlüssel zu unterschreiben kannst Du beispielsweise folgenden Weg gehen:
 								<br /><br />
@@ -209,10 +211,10 @@
 								<br /><br />
 								Erhältst Du nun den unterschriebenen Schlüssel Deines Partners, speicherst Du ihn ab, lädst ihn über die Schlüsselverwaltung 
 								(Datei > Importieren > Schlüssel im Dateimanager auswählen > "OK") in Deinen Schlüsselbund und anschließend auf einen Keyserver hoch 
-								(Siehe <a href="SCHLÜSSELSERVER">Auf Schlüsselserver hochladen</a>).
+								(Siehe <a href="#SCHLÜSSELSERVER">Auf Schlüsselserver hochladen</a>).
 								<br /><br /><br />
 							</p>
-							<h4>Besitzervertrauen festlegen</h4>
+							<h4>Besitzervertrauen festlegen<br /><br /></h4>
 							<p>
 								Damit Enigmail die Vertrauenswürdigkeit einer "Chain of Trust" beurteilen kann und Dir das über empfangenen unterschriebenen E-Mails mitteilen kann, kann man die 
 								Vertrauenswürdigkeit des Besitzers festlegen.
