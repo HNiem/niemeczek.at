@@ -23,13 +23,13 @@
 				<div id="content_area">
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
-								<p>
+					<!--			<p>
 									Darkness cannot drive out darkness; only light can do that. 
 									<br \><br \>
 									Hate cannot drive out hate; only love can do that.
 									<br \>
 									<span style="font-size: 0.89em">Martin Luther King, Jr.</span>
-								</p>
+								</p> -->
 						</div>
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	

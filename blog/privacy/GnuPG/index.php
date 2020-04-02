@@ -77,7 +77,7 @@
 								<br />
 								Mit dem <b>Private Key</b> können Nachrichten unterschrieben werden. Das heißt, dass jeder, der den dazupassenden Public Key besitzt 
 								zweifelsfrei die Echtheit einer Nachricht feststellen kann. Auch eine Veränderung des Nachrichtentextes ist leicht feststellbar!
-								Außerdem können mit Hilfe des Public Keys verschlüsselte Nachrichten entschlüsselt werden.
+								Außerdem können mit Hilfe des Private Keys verschlüsselte Nachrichten entschlüsselt werden.
 								<br /><br />
 								Mit dem <b>Public Key</b> können Nachrichten verschlüsselt werden, jedoch nicht mehr entschlüsselt. Zudem können Unterschriften damit überprüft werden.
 								
